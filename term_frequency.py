@@ -107,3 +107,5 @@ for file in file_list:
 sims = pd.DataFrame(sims,
                   index=colnames,
                   columns=colnames)
+
+#sims is the similartiy matrix

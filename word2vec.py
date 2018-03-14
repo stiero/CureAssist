@@ -59,6 +59,8 @@ file_list = ["fever.txt", "asthma.txt", "chronic_pain.txt", "cold.txt", "cramps.
              "headache.txt", "hypertension.txt", "nausea.txt", "rash.txt",
              "swelling.txt", "sleepiness.txt"]    
 
+
+
 full_text = []
 
 for file in file_list:
@@ -81,6 +83,41 @@ word2vec = Word2Vec(sentences=full_text,
                     )
 
 word2vec.most_similar("fever")
+
+#Some similarities
+
+print(word2vec.wv.similarity("fever", "asthma"))
+print(word2vec.wv.similarity("fever", "pain"))
+print(word2vec.wv.similarity("cold", "fever"))
+print(word2vec.wv.similarity("cold", "headache"))
+print(word2vec.wv.similarity("fever", "nausea"))
+
+
+
+
+#conditions = []
+
+#for file in file_list:
+#    name = file[:-4]
+#    conditions.append(name)
+
+#conditions[2] = "pain"
+
+
+#sims = np.empty((15, 15), dtype="float64")
+
+#for i, col in enumerate(conditions):
+#    if i < len(conditions) - 1:
+#        sim = word2vec.wv.similarity(conditions[i], conditions[i+1])
+#        sims[i:] = sim
+#    else:
+#        sim = word2vec.wv.similarity(conditions[i], conditions[1])
+#        sims[i:] = sim
+    
+#sims = pd.DataFrame(sims,
+#                  index=conditions,
+#                  columns=conditions)
+
 
 
 
