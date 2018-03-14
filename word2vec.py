@@ -82,10 +82,11 @@ word2vec = Word2Vec(sentences=full_text,
                     seed=1000,
                     )
 
+#Words most similar to fever
 word2vec.most_similar("fever")
 
-#Some similarities
 
+#Some similarities between conditions
 print(word2vec.wv.similarity("fever", "asthma"))
 print(word2vec.wv.similarity("fever", "pain"))
 print(word2vec.wv.similarity("cold", "fever"))
@@ -93,30 +94,6 @@ print(word2vec.wv.similarity("cold", "headache"))
 print(word2vec.wv.similarity("fever", "nausea"))
 
 
-
-
-#conditions = []
-
-#for file in file_list:
-#    name = file[:-4]
-#    conditions.append(name)
-
-#conditions[2] = "pain"
-
-
-#sims = np.empty((15, 15), dtype="float64")
-
-#for i, col in enumerate(conditions):
-#    if i < len(conditions) - 1:
-#        sim = word2vec.wv.similarity(conditions[i], conditions[i+1])
-#        sims[i:] = sim
-#    else:
-#        sim = word2vec.wv.similarity(conditions[i], conditions[1])
-#        sims[i:] = sim
-    
-#sims = pd.DataFrame(sims,
-#                  index=conditions,
-#                  columns=conditions)
 
 
 
