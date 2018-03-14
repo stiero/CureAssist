@@ -1,0 +1,323 @@
+Fever, also known as pyrexia and febrile response,[6] is defined as having a temperature above the normal range due to an increase in the body's temperature set-point.[4][5] There is not a single agreed-upon upper limit for normal temperature with sources using values between 37.5 and 38.3 °C (99.5 and 100.9 °F).[6][7] The increase in set-point triggers increased muscle contractions and causes a feeling of cold.[1] This results in greater heat production and efforts to conserve heat.[2] When the set-point temperature returns to normal, a person feels hot, becomes flushed, and may begin to sweat.[2] Rarely a fever may trigger a febrile seizure.[3] This is more common in young children.[3] Fevers do not typically go higher than 41 to 42 °C (105.8 to 107.6 °F).[5]
+
+A fever can be caused by many medical conditions ranging from non serious to life threatening.[11] This includes viral, bacterial and parasitic infections such as the common cold, urinary tract infections, meningitis, malaria and appendicitis among others.[11] Non-infectious causes include vasculitis, deep vein thrombosis, side effects of medication, and cancer among others.[11] It differs from hyperthermia, in that hyperthermia is an increase in body temperature over the temperature set-point, due to either too much heat production or not enough heat loss.[6]
+
+Treatment to reduce fever is generally not required.[1][8] Treatment of associated pain and inflammation, however, may be useful and help a person rest.[8] Medications such as ibuprofen or paracetamol (acetaminophen) may help with this as well as lower temperature.[8][9] Measures such as putting a cool damp cloth on the forehead and having a slightly warm bath are not useful and may simply make a person more uncomfortable.[8] Children younger than three months require medical attention, as might people with serious medical problems such as a compromised immune system or people with other symptoms.[12] Hyperthermia does require treatment.[1]
+
+Fever is one of the most common medical signs.[1] It is part of about 30% of healthcare visits by children[1] and occurs in up to 75% of adults who are seriously sick.[10] While fever is a useful defense mechanism, treating fever does not appear to worsen outcomes.[13][14] Fever is viewed with greater concern by parents and healthcare professionals than it usually deserves, a phenomenon known as fever phobia.[1]
+
+A wide range for normal temperatures has been found.[7] Central temperatures, such as rectal temperatures, are more accurate than peripheral temperatures.[20] Fever is generally agreed to be present if the elevated temperature is caused by a raised set point and:
+
+Temperature in the anus (rectum/rectal) is at or over 37.5–38.3 °C (99.5–100.9 °F)[6][7]
+Temperature in the mouth (oral) is at or over 37.7 °C (99.9 °F)[21]
+Temperature under the arm (axillary) or in the ear (tympanic) is at or over 37.2 °C (99.0 °F)
+In healthy adult men and women, the range of normal, healthy temperatures for oral temperature is 33.2–38.2 °C (91.8–100.8 °F), for rectal it is 34.4–37.8 °C (93.9–100.0 °F), for tympanic membrane (the ear drum) it is 35.4–37.8 °C (95.7–100.0 °F), and for axillary (the armpit) it is 35.5–37.0 °C (95.9–98.6 °F).[22] Harrison's principles of internal medicine defines a fever as a morning oral temperature of >37.2 °C (>98.9 °F) or an afternoon oral temperature of >37.7 °C (>99.9 °F) while the normal daily temperature variation is typically 0.5 °C (0.9 °F).[23]
+
+Normal body temperatures vary depending on many factors, including age, sex, time of day, ambient temperature, activity level, and more. A raised temperature is not always a fever. For example, the temperature of a healthy person rises when he or she exercises, but this is not considered a fever, as the set-point is normal. On the other hand, a "normal" temperature may be a fever, if it is unusually high for that person. For example, medically frail elderly people have a decreased ability to generate body heat, so a "normal" temperature of 37.3 °C (99.1 °F) may represent a clinically significant fever.
+
+The pattern of temperature changes may occasionally hint at the diagnosis:
+
+Continuous fever: Temperature remains above normal throughout the day and does not fluctuate more than 1 °C in 24 hours, e.g. lobar pneumonia, typhoid, meningitis, urinary tract infection, or typhus. Typhoid fever may show a specific fever pattern (Wunderlich curve of typhoid fever), with a slow stepwise increase and a high plateau. (Drops due to fever-reducing drugs are excluded.)
+Intermittent fever: The temperature elevation is present only for a certain period, later cycling back to normal, e.g. malaria, kala-azar, pyaemia, or septicemia. Following are its types:[24]
+Quotidian fever, with a periodicity of 24 hours, typical of Plasmodium falciparum or Plasmodium knowlesi malaria
+Tertian fever (48-hour periodicity), typical of Plasmodium vivax or Plasmodium ovale malaria
+Quartan fever (72-hour periodicity), typical of Plasmodium malariae malaria.
+Remittent fever: Temperature remains above normal throughout the day and fluctuates more than 1 °C in 24 hours, e.g., infective endocarditis, brucellosis.
+Pel-Ebstein fever: A specific kind of fever associated with Hodgkin's lymphoma, being high for one week and low for the next week and so on. However, there is some debate as to whether this pattern truly exists.[25]
+A neutropenic fever, also called febrile neutropenia, is a fever in the absence of normal immune system function. Because of the lack of infection-fighting neutrophils, a bacterial infection can spread rapidly; this fever is, therefore, usually considered to require urgent medical attention. This kind of fever is more commonly seen in people receiving immune-suppressing chemotherapy than in apparently healthy people.
+
+Febricula is an old term for a low-grade fever, especially if the cause is unknown, no other symptoms are present, and the patient recovers fully in less than a week.[26]
+
+Hyperpyrexia is an extreme elevation of body temperature which, depending upon the source, is classified as a core body temperature greater than or equal to 40.0 or 41.5 °C (104.0 or 106.7 °F).[27][28][29] Such a high temperature is considered a medical emergency, as it may indicate a serious underlying condition or lead to problems including permanent brain damage, or death.[30] The most common cause of hyperpyrexia is an intracranial hemorrhage.[31][29] Other possible causes include sepsis, Kawasaki syndrome,[32] neuroleptic malignant syndrome, drug overdose, serotonin syndrome, and thyroid storm.[30]
+
+Infections are the most common cause of fevers, but as the temperature rises other causes become more common.[30] Infections commonly associated with hyperpyrexia include roseola, measles and enteroviral infections.[32] Immediate aggressive cooling to less than 38.9 °C (102.0 °F) has been found to improve survival.[30] Hyperpyrexia differs from hyperthermia in that in hyperpyrexia the body's temperature regulation mechanism sets the body temperature above the normal temperature, then generates heat to achieve this temperature, while in hyperthermia the body temperature rises above its set point due to an outside source.[31]
+
+
+Hyperthermia is an example of a high temperature that is not a fever. It occurs from a number of causes including heatstroke, neuroleptic malignant syndrome, malignant hyperthermia, stimulants such as substituted amphetamines and cocaine, idiosyncratic drug reactions, and serotonin syndrome.[33][34]
+
+
+A fever is usually accompanied by sickness behavior, which consists of lethargy, depression, anorexia, sleepiness, hyperalgesia, and the inability to concentrate.[35][36][37]
+
+Fever is a common symptom of many medical conditions:
+
+Infectious disease, e.g., influenza, primary HIV infection, malaria, Ebola, infectious mononucleosis, gastroenteritis, Lyme disease
+Various skin inflammations, e.g., boils, abscess
+Immunological diseases, e.g., lupus erythematosus, sarcoidosis, inflammatory bowel diseases, Kawasaki disease, Still disease, Horton disease, granulomatosis with polyangiitis, autoimmune hepatitis, relapsing polychondritis[38]
+Tissue destruction, which can occur in hemolysis, surgery, infarction, crush syndrome, rhabdomyolysis, cerebral bleeding, etc.
+Reaction to incompatible blood products
+Cancers, most commonly kidney cancer and leukemia and lymphomas
+Metabolic disorders: gout, porphyria
+Inherited metabolic disorder: Fabry disease[39]
+Persistent fever that cannot be explained after repeated routine clinical inquiries is called fever of unknown origin.
+
+Teething is not a cause.[40]
+
+Temperature is ultimately regulated in the hypothalamus. A trigger of the fever, called a pyrogen, causes a release of prostaglandin E2 (PGE2). PGE2 then in turn acts on the hypothalamus, which generates a systemic response back to the rest of the body, causing heat-creating effects to match a new temperature level.
+
+In many respects, the hypothalamus works like a thermostat.[41] When the set point is raised, the body increases its temperature through both active generation of heat and retention of heat. Peripheral vasoconstriction both reduces heat loss through the skin and causes the person to feel cold. Norepinephrine increases thermogenesis in brown adipose tissue, and acetylcholine stimulates muscle to raise metabolic rate.[42] If these measures are insufficient to make the blood temperature in the brain match the new set point in the hypothalamus, then shivering begins in order to use muscle movements to produce more heat. When the hypothalamic set point moves back to baseline either spontaneously or with medication, the reverse of these processes (vasodilation, end of shivering and nonshivering heat production) and sweating are used to cool the body to the new, lower setting.
+
+This contrasts with hyperthermia, in which the normal setting remains, and the body overheats through undesirable retention of excess heat or over-production of heat.[41] Hyperthermia is usually the result of an excessively hot environment (heat stroke) or an adverse reaction to drugs. Fever can be differentiated from hyperthermia by the circumstances surrounding it and its response to anti-pyretic medications.
+
+A pyrogen is a substance that induces fever. These can be either internal (endogenous) or external (exogenous) to the body. The bacterial substance lipopolysaccharide (LPS), present in the cell wall of gram-negative bacteria,[43] is an example of an exogenous pyrogen. Pyrogenicity can vary: In extreme examples, some bacterial pyrogens known as superantigens can cause rapid and dangerous fevers. Depyrogenation may be achieved through filtration, distillation, chromatography, or inactivation.
+
+In essence, all endogenous pyrogens are cytokines, molecules that are a part of the immune system. They are produced by activated immune cells and cause the increase in the thermoregulatory set point in the hypothalamus. Major endogenous pyrogens are interleukin 1 (α and β)[44] and interleukin 6 (IL-6). Minor endogenous pyrogens include interleukin-8, tumor necrosis factor-β, macrophage inflammatory protein-α and macrophage inflammatory protein-β as well as interferon-α, interferon-β, and interferon-γ.[44] Tumor necrosis factor-α also acts as a pyrogen. It is mediated by interleukin 1 (IL-1) release.[45]
+
+These cytokine factors are released into general circulation, where they migrate to the circumventricular organs of the brain due to easier absorption caused by the blood–brain barrier's reduced filtration action there. The cytokine factors then bind with endothelial receptors on vessel walls, or interact with local microglial cells. When these cytokine factors bind, the arachidonic acid pathway is then activated.
+
+One model for the mechanism of fever caused by exogenous pyrogens includes LPS, which is a cell wall component of gram-negative bacteria. An immunological protein called lipopolysaccharide-binding protein (LBP) binds to LPS. The LBP–LPS complex then binds to the CD14 receptor of a nearby macrophage. This binding results in the synthesis and release of various endogenous cytokine factors, such as interleukin 1 (IL-1), interleukin 6 (IL-6), and the tumor necrosis factor-alpha. In other words, exogenous factors cause release of endogenous factors, which, in turn, activate the arachidonic acid pathway.[46] The highly toxic metabolism-boosting supplement 2,4-Dinitrophenol induces high body temperature via the inhibition of ATP production by mitochondria, resulting in impairment of cellular respiration. Instead of producing ATP, the energy of the proton gradient is lost as heat.[47]
+
+
+PGE2 release comes from the arachidonic acid pathway. This pathway (as it relates to fever), is mediated by the enzymes phospholipase A2 (PLA2), cyclooxygenase-2 (COX-2), and prostaglandin E2 synthase. These enzymes ultimately mediate the synthesis and release of PGE2.
+
+PGE2 is the ultimate mediator of the febrile response. The set point temperature of the body will remain elevated until PGE2 is no longer present. PGE2 acts on neurons in the preoptic area (POA) through the prostaglandin E receptor 3 (EP3). EP3-expressing neurons in the POA innervate the dorsomedial hypothalamus (DMH), the rostral raphe pallidus nucleus in the medulla oblongata (rRPa), and the paraventricular nucleus (PVN) of the hypothalamus . Fever signals sent to the DMH and rRPa lead to stimulation of the sympathetic output system, which evokes non-shivering thermogenesis to produce body heat and skin vasoconstriction to decrease heat loss from the body surface. It is presumed that the innervation from the POA to the PVN mediates the neuroendocrine effects of fever through the pathway involving pituitary gland and various endocrine organs.
+
+The brain ultimately orchestrates heat effector mechanisms via the autonomic nervous system or primary motor center for shivering. These may be:
+
+Increased heat production by increased muscle tone, shivering and hormones like epinephrine (adrenaline)
+Prevention of heat loss, such as vasoconstriction.
+In infants, the autonomic nervous system may also activate brown adipose tissue to produce heat (non-exercise-associated thermogenesis, also known as non-shivering thermogenesis). Increased heart rate and vasoconstriction contribute to increased blood pressure in fever.
+
+There are arguments for and against the usefulness of fever, and the issue is controversial.[48][49] [50] There are studies using warm-blooded vertebrates with some suggesting that they recover more rapidly from infections or critical illness due to fever.[51] Studies suggest reduced mortality in bacterial infections when fever was present.[52]
+
+In theory, fever can aid in host defense.[48] There are certainly some important immunological reactions that are sped up by temperature, and some pathogens with strict temperature preferences could be hindered.[53]
+
+Research[54] has demonstrated that fever assists the healing process in several important ways:
+
+Increased mobility of leukocytes
+Enhanced leukocyte phagocytosis
+Endotoxin effects decreased
+Increased proliferation of T cells[55]
+
+
+Fever should not necessarily be treated.[56] Most people recover without specific medical attention.[57] Although it is unpleasant, fever rarely rises to a dangerous level even if untreated. Damage to the brain generally does not occur until temperatures reach 42 °C (107.6 °F), and it is rare for an untreated fever to exceed 40.6 °C (105 °F).[56] Treating fever in people with sepsis does not affect outcomes.[58]
+
+Some limited evidence supports sponging or bathing feverish children with tepid water.[59] The use of a fan or air conditioning may somewhat reduce the temperature and increase comfort. If the temperature reaches the extremely high level of hyperpyrexia, aggressive cooling is required (generally produced mechanically via conduction by applying numerous ice packs across most of the body or direct submersion in ice water).[30] In general, people are advised to keep adequately hydrated.[60] Whether increased fluid intake improves symptoms or shortens respiratory illnesses such as the common cold is not known.[61]
+
+
+
+Medications that lower fevers are called antipyretics. The antipyretic ibuprofen is effective in reducing fevers in children.[62] It is more effective than acetaminophen (paracetamol) in children.[62] Ibuprofen and acetaminophen may be safely used together in children with fevers.[63][64] The efficacy of acetaminophen by itself in children with fevers has been questioned.[65] Ibuprofen is also superior to aspirin in children with fevers.[66] Additionally, aspirin is not recommended in children and young adults (those under the age of 16 or 19 depending on the country) due to the risk of Reye's syndrome.[67]
+
+Using both paracetamol and ibuprofen at the same time or alternating between the two is more effective at decreasing fever than using only paracetamol or ibuprofen.[68] It is not clear if it increases child comfort.[68] Response or nonresponse to medications does not predict whether or not a child has a serious illness.[69]
+
+About 5% of people who go to an emergency room have a fever.[70]
+
+
+A number of types of fever were known as early as 460 BC to 370 BC when Hippocrates was practicing medicine including that due to malaria (tertian or every 2 days and quartan or every 3 days).[71] It also became clear around this time that fever was a symptom of disease rather than a disease in and of itself.[71]
+
+
+Pyrexia is from the Greek pyr meaning fire. Febrile is from the Latin word febris, meaning fever, and archaically known as ague.
+
+
+Fever phobia is the name given by medical experts to parents' misconceptions about fever in their children. Among them, many parents incorrectly believe that fever is a disease rather than a medical sign, that even low fevers are harmful, and that any temperature even briefly or slightly above the oversimplified "normal" number marked on a thermometer is a clinically significant fever.[72] They are also afraid of harmless side effects like febrile seizures and dramatically overestimate the likelihood of permanent damage from typical fevers.[72] The underlying problem, according to professor of pediatrics Barton D. Schmitt, is "as parents we tend to suspect that our children’s brains may melt."[73]
+
+As a result of these misconceptions parents are anxious, give the child fever-reducing medicine when the temperature is technically normal or only slightly elevated, and interfere with the child's sleep to give the child more medicine.[72]
+
+Fever is an important feature for the diagnosis of disease in domestic animals. The body temperature of animals, which is taken rectally, is different from one species to another. For example, a horse is said to have a fever above 101 °F (38.3 °C).[74] In species that allow the body to have a wide range of "normal" temperatures, such as camels,[75] it is sometimes difficult to determine a febrile stage.
+
+Fever can also be behaviorally induced by invertebrates that do not have immune-system based fever. For instance, some species of grasshopper will thermoregulate to achieve body temperatures that are 2–5 °C higher than normal in order to inhibit the growth of fungal pathogens such as Beauveria bassiana and Metarhizium acridum.[76] Honeybee colonies are also able to induce a fever in response to a fungal parasite Ascosphaera apis. [76]
+
+
+A fever -- also known as a high fever or a high temperature -- is not by itself an illness. It's usually a symptom of an underlying condition, most often an infection.
+
+Fever is usually associated with physical discomfort, and most people feel better when a fever is treated. But depending on your age, physical condition, and the underlying cause of your fever, you may or may not require medical treatment for the fever alone. Many experts believe that fever is a natural bodily defense against infection. There are also many non-infectious causes of fever.
+
+Fever is generally not considered dangerous, but hyperthermia can cause dangerous rises in body temperature. This can be due to an extreme temperature associated with heat injury such as heat stroke, side effects of certain medications or illicit drugs, and stroke. With hyperthermia, the body is no longer able to control body temperature.
+
+In children with fever, accompanying symptoms such as lethargy, fussiness, poor appetite, sore throat, cough, ear pain, vomiting, and diarrhea are important to relay to your doctor.
+
+According to the American Academy of Pediatrics, if you have an infant younger than 3 months old with a rectal temperature of 100.4 F or above, you should immediately call your doctor or go to an emergency room, because it could be a sign of a potentially life-threatening infection. Also call your doctor or go to the emergency room if any child has a fever above 104 F. High fever can cause seizures in young children.
+
+Call your doctor right away if your child has a fever and:
+
+Looks very sick
+Is drowsy or very fussy
+Has a weakened immune system or other medical problems
+Has a seizure
+Has other symptoms such as rash, sore throat, headache, stiff neck, or earache
+Call the doctor if the fever lasts more than 1 day in a child less than 2 years old or lasts more than 3 days in a child age 2 or older.
+
+ 
+
+Causes of Fever
+A part of the brain called the hypothalamus controls body temperature, which usually varies throughout the day from the normal temperature of 98.6 F.
+
+In response to an infection, illness, or some other cause, the hypothalamus may reset the body to a higher temperature.
+
+Although the most common causes of fever are common infections such as colds and gastroenteritis, other causes include:
+
+Infections of the ear, lung, skin, throat, bladder, or kidney
+Conditions that cause inflammation
+Side effects of drugs
+Cancer
+Vaccines
+Other causes of fever include:
+
+Blood clots
+Autoimmune diseases such as lupus, rheumatoid arthritis, and inflammatory bowel disease
+Hormone disorders such as hyperthyroidism
+Illegal drugs such as amphetamines and cocaine
+Diagnosis of Fever
+Although a fever is easy to measure, determining its cause can be hard. Besides a physical exam, your doctor will ask about symptoms and conditions, medications, and if you've recently traveled to areas with infections or have other infection risks. A malaria infection, for example, may be have a fever that typically recurs. Some areas of the U.S. are hotspots for infections such as Lyme disease and Rocky Mountain spotted fever.
+
+Sometimes, you may have a "fever of unknown origin." In such cases, the cause could be an unusual or not obvious condition such as a chronic infection, a connective tissue disorder, cancer, or another problem.
+
+Treatments for Fever
+Treatments vary depending on the cause of the fever. For example, antibiotics would be used for a bacterial infection such as strep throat.
+
+The most common treatments for fever include over-the-counter drugs such as acetaminophen (Tylenol) and nonsteroidal anti-inflammatory drugs such ibuprofen (Advil, Motrin) and naproxen (Aleve). Children and teens should not take aspirin because it's linked to condition called Reye’s syndrome.
+
+Fever facts
+Although a fever could be considered any body temperature above the normal 98.6 F (37 C), medically, a person is not considered to have a significant fever until the temperature is above 100.4 F (38.0 C).
+Most fever is beneficial, causes no problems, and helps the body fight off infections. The main reason to treat a fever is to increase comfort.
+Fever is the result of an immune response by your body to a foreign invader. Foreign invaders include viruses, bacteria, fungi, drugs, or other toxins.
+Children under 3 months of age with a temperature of 100.4 F (38.0 C) or greater should be seen by a health care professional. They may be quite ill and not show any signs or symptoms besides a fever. Infants younger than 6 weeks of age should be seen immediately by their doctor.
+Acetaminophen (Tylenol and others) and ibuprofen (Advil, Motrin) can be used to treat a fever. Aspirin should not be used in children or adolescents to control fever.
+The prognosis for a fever depends on the cause. Most cases of fever are self-limited and resolve with treatment of symptoms.
+A person who is taking immunosuppressant drugs or who has a history of or diagnosis of cancer, AIDS, or other serious illness, such as heart disease or diabetes, should seek medical care if a fever develops.
+
+
+What is a fever?
+The definition of fever is an elevation in body temperature or a high body temperature. Technically, any body temperature above the normal oral measurement of 98.6 Fahrenheit (37 Celsius) or the normal rectal temperature of 99 F (37.2 C) is considered elevated. However, these are averages, and one's normal body temperature may actually be 1 F (0.6 C) or more above or below the average of 98.6 F. Body temperature can also vary up to 1 F (0.6 C) throughout the day.
+
+Fever is not considered medically significant until body temperature is above 100.4 F (38 C), which is the temperature considered to be a fever by medical professionals. Anything above normal but below 100.4 F (38 C) is considered a low-grade fever. Fever serves as one of the body's natural defenses against bacteria and viruses that cannot live at a higher temperatures. For that reason, low-grade fevers should normally go untreated, unless accompanied by troubling symptoms or signs.
+
+Also, the body's defense mechanisms seem to work more efficiently at a higher temperature. Fever is just one part of an illness, many times no more important than the presence of other symptoms such as cough, sore throat, sinus congestion, fatigue, joint pains or aches, chills, nausea, etc.
+
+Fevers of 104 F (40 C) or higher may be dangerous and demand immediate home treatment and prompt medical attention, as they can result in delirium and convulsions, particularly in infants, children, and the elderly.
+
+Fever should not be confused with hyperthermia, which is a defect in your body's response to heat (thermoregulation), which can also raise the body temperature. This is usually caused by external sources such as being in a hot environment. Heat exhaustion and heat stroke are forms of hyperthermia. Other causes of hyperthermia can include side effects of certain medications or medical conditions.
+
+Fever should also not be confused with hot flashes or night sweats due to hormonal changes during perimenopause (the time period around menopause). Hot flashes and night sweats cause a sudden and intense feeling of heat, and may be accompanied by flushing (skin redness and tingly feeling) and sweating, but are not the same thing as a fever.
+
+Fever is the result of an immune response by your body to a foreign invader. These foreign invaders include viruses, bacteria, fungi, drugs, or other toxins.
+
+These foreign invaders are considered fever-producing substances (called pyrogens), which trigger the body's immune response. Pyrogens signal the hypothalamus in the brain to increase the body temperature set point in order to help the body fight off the infection.
+
+Fever is a common symptom of most infections such a colds and gastroenteritis (also referred to as stomach flu), and thus a risk factor for fever is exposure to infectious agents. Typical infections that may cause a fever include those of the ear, throat, lung, bladder, and kidney. In children, immunizations (such as vaccine shots) or teething may cause short-term low-grade fever. Autoimmune disorders (including rheumatoid arthritis, lupus, and inflammatory bowel disease), medication side effects, seizures, blood clots, hormone disorders, cancers, and illicit drug use may also cause fevers.
+
+Fever itself is not contagious; however, if the fever is caused by a viral or bacterial infection, the infection may be contagious.
+
+A fever can cause a person to feel very uncomfortable. Signs and symptoms of a fever include the following:
+
+Temperature greater than 100.4 F (38 C) in adults and children
+Shivering, shaking, and chills
+Aching muscles and joints or other body aches
+Headache
+Intermittent sweats or excessive sweating
+Rapid heart rate and/or palpitations
+Skin flushing or hot skin
+Feeling faint, dizzy, or lightheaded
+Eye pain or sore eyes
+Weakness
+Loss of appetite
+Fussiness (in children and toddlers)
+Also important to note in children are symptoms that can accompany an infection, including sore throat, cough, earache, vomiting, and diarrhea
+With very high temperatures (>104 F/40 C), convulsions, hallucinations, or confusion is possible. Always seek medical attention for a high fever or if these symptoms occur.
+
+How do health care professionals diagnose a fever?
+Along with having generalized symptoms of a fever, taking one's temperature with a thermometer can confirm the diagnosis of a fever. A temperature greater than 100.4 F in adults or children is considered a fever.
+
+Different tests may be done by a doctor, such a blood and imaging tests, to determine the cause of a fever and if the cause of the fever needs to be treated.
+
+
+How should someone take a temperature for fever?
+Digital thermometers can be used to measure rectal, oral, or axillary (under the armpit) temperatures. The American Academy of Pediatrics does not recommend use of mercury thermometers (glass), and they encourage parents to remove mercury thermometers from their households to prevent accidental exposure to this toxin.
+
+Measuring an axillary (under the armpit) temperature for fever
+Axillary temperatures are not as accurate as rectal or oral measurements, and these generally measure 1 degree lower than a simultaneously obtained oral temperature.
+
+Place the tip of the digital thermometer in a child's armpit.
+Leave the thermometer in place about one minute or until one hears a beep to check a digital reading.
+Measuring fever by eardrum temperature
+Tympanic (ear) thermometers must be placed correctly in a child's ear to be accurate. Too much earwax can cause the reading to be incorrect.
+
+Eardrum temperature measurements are not accurate in small children and should not be used in children under 3 years (36 months) of age. This is especially true in infants below 3 months of age when obtaining an accurate temperature is very important.
+
+Measuring fever by oral temperature
+People 4 years old and older can have their temperature taken with a digital thermometer under the tongue with their mouth closed.
+
+Clean the thermometer with soapy water or rubbing alcohol and rinse.
+Turn the thermometer on and place the tip of the thermometer as far back under the tongue as possible.
+The mouth should remain closed, as an open mouth can cause readings to be inaccurate.
+The thermometer should remain in place for about one minute or until one hears the beep. Check the digital reading.
+Avoid hot or cold drinks within 15 minutes of oral temperature measurement to ensure correct readings.
+
+Measuring fever by rectal temperature
+The American Academy of Pediatrics recommends rectal temperature measurements for children and toddlers under 3 years of age, as this gives the most accurate reading of core temperature.
+
+Clean the thermometer with soapy water or rubbing alcohol and rinse with cool water.
+Use a small amount of lubricant, such as petroleum jelly, on the end.
+Place the child or baby prone (belly-side down) on a firm surface, or place a child face up and bend his legs to his chest.
+After separating the buttocks, insert the thermometer approximately ½ to 1 inch into the rectum. Do not insert it too far.
+Hold the thermometer in place, loosely keeping one's hand cupped around the child's bottom, and keep one's fingers on the thermometer to avoid it accidently sliding further into the rectum. Keep it there for about one minute, until one hears the beep.
+Remove the thermometer, and check the digital reading.
+Label the rectal thermometer so it's not accidentally used in the mouth.
+A rectal temperature will read approximately 1 degree higher than a simultaneously obtained oral temperature.
+Generally, if the fever does not cause discomfort, the fever itself need not be treated. It is not necessary to awaken an adult or child to treat a fever unless instructed to do so by a doctor.
+
+The following fever-reducing medications may be used at home:
+
+Acetaminophen (Tylenol and others) can be used to lower a fever. The recommended pediatric dose can be suggested by the child's pediatrician. Adults without liver disease or other health problems can take 1,000 mg (two "extra-strength" tablets) every six hours or as directed by a physician. The makers of Tylenol state the maximum recommended dose of acetaminophen per day is 3,000 mg, or six extra-strength tablets per 24 hours, unless directed by a doctor. Regular-strength Tylenol tablets are 325 mg; the recommended dosage for these is two tablets every four to six hours, not to exceed 10 tablets per 24 hours. If your fever is accompanied by vomiting and you are unable to keep oral medications down, ask a pharmacist for acetaminophen suppositories, which are available without a prescription.
+Ibuprofen (Motrin, Advil) can also be used to break a fever in patients over 6 months of age. Discuss the best dose with a doctor. For adults, generally 400 mg to 600 mg (two to three 200 mg tablets) can be used every six hours as fever reducers.
+Naproxen (Aleve) is another nonsteroidal anti-inflammatory drug (NSAID) that can temporarily reduce fever. The adult dose is two tablets every 12 hours.
+Aspirin should not be used for fever in children or adolescents. Aspirin use in children and adolescents during a viral illness (especially chickenpox and influenza, or flu) has been associated with Reye's syndrome. Reye's syndrome is a dangerous illness that causes prolonged vomiting, confusion, and even coma and liver failure.
+
+An individual with a fever should be kept comfortable and not overdressed. Overdressing can cause the temperature to rise further. Tepid water (85 F [30 C]) baths or sponge baths are a home remedy that may help bring down a fever. Never immerse a person with a fever in ice water. This is a common misconception. Never sponge a child or an adult with alcohol; the alcohol fumes may be inhaled, causing many problems.
+
+Other home remedies for fever include staying hydrated. Drink plenty of water and fluids, and avoid alcohol or caffeinated beverages, which can contribute to dehydration. Popsicles can also be cooling and provide fluids while also soothing a sore throat if that is present.
+
+A fan to circulate air or an open window may be helpful, as well as applying a cool damp washcloth to the forehead. If you are caring for a child, make sure the child does not feel too cold.
+
+A fever over 104 F/40 C in children and adults is considered dangerous. Seek medical attention immediately.
+
+Any child below 3 months of age who has a temperature of 100.4 F (38 C) or greater should be seen by a physician. If a child or adult has a history or diagnosis of cancer, AIDS, or other serious illness, such as heart disease, diabetes, or is taking immunosuppressant drugs, medical care should be sought for a fever.
+
+Children with a fever who have signs and symptoms such as rash, sore throat, ear pain, stiff neck, drowsiness, fussiness, or headache should see a doctor. In addition, if a fever lasts more than one day in a child or toddler 2 years of age or under, or last more than three days in a child over age 2, seek medical care.
+
+Otherwise, observe the person with the fever. If he or she appears sick or has symptoms that would suggest a major illness, such as meningitis (headache, stiff neck, confusion, problems staying awake), urinary tract infection (shaking chills, back pain, burning with urination), pneumonia (shortness of breath, cough), or any other signs of a serious illness, contact a health care professional.
+
+Other symptoms that may be indicative of a severe illness include repeated vomiting, severe diarrhea, or skin rashes (that could be a sign of dengue fever, Rocky Mountain spotted fever, scarlet fever, rheumatic fever, strep throat, or chickenpox).
+
+Fever blisters (herpangina) are small blisters that turn into ulcers, usually on the lips, mouth, or tongue; a virus causes fever blisters. When a child contracts this virus for the first time, the symptoms and the fever blisters can be quite severe. If the child is not eating or drinking, contact the child's pediatrician.
+
+Women who are pregnant should contact a doctor for a fever over 101 F (38 C). A fever during pregnancy that is accompanied by a rash and joint pain could be a sign of an infection that could affect the baby. Some infections, such as cytomegalovirus (CMV), can cause congenital deafness and other problems in the baby. If a pregnant woman contracts the Zika virus (also called Zika fever), it may cause a birth defect called microcephaly (small head).
+
+On the other hand, if the fever accompanies a simple cold or virus, one can treat the fever as described above and be assured the fever is only a symptom of the illness. This is not to say one should ignore a fever. If there are other associated symptoms that are bothersome, contact a doctor.
+
+Some vaccines given in childhood can cause a low-grade fever within a day or two of getting the injection. This fever is usually self-limited and short-lived. If the reaction seems severe or the skin at the injection site is red, hot, and painful, contact the child's doctor.
+
+A low percentage of all children and toddlers between 18 months to 3 years of age will have a seizure (convulsion) with a high fever. Of those with a history of febrile seizure, some will have another seizure associated with another febrile (fever) episode. Febrile seizures, while frightening to the parents, are not associated with long-term nervous-system complications. Children used to be prescribed the antiseizure drug phenobarbital (Solfoton, Luminal) following a febrile seizure as a preventive measure (prophylaxis). This has not been shown to be beneficial and possibly may be harmful, so it is not recommended.
+
+Recurrent fever in children (three or more episodes of fever in a six-month period, with no apparent causative illness) can be a symptom of a few different illnesses, such as PFAPA (periodic fever, aphthous ulcers, pharyngitis, and adenopathy) syndrome, cyclic neutropenia, Epstein-Barr virus (EBV) infection, and others. See your child's pediatrician if fevers are recurrent.
+
+Recurrent, persistent, or chronic fever in adults may accompany immune-deficient fever of unknown origin (FUO), also known as neutropenic FUO, and HIV-associated FUO, as well as many other infectious conditions. Adults should see their doctors if they develop recurrent fever.
+
+Any kind of doctor is able to treat a fever, but most likely when you have a fever you will see your family medicine specialist (also called a general practitioner) or internist, and your child will see a pediatrician. You may see an emergency medicine specialist in an emergency department.
+
+If fever is due to a specific underlying or recurrent medical condition, you may see a specialist for that particular condition. For example, if a person has cancer and a fever, an oncologist may be consulted. A pregnant woman with a fever may see her obstetrician. Newborns with fever may see neonatal specialists. Patients with HIV/AIDS and fever may consult an infectious disease specialist.
+
+While having a fever is generally very uncomfortable, a fever itself does not usually cause severe complications.
+
+High fever (>103 F/40 C) or prolonged bouts of fever can lead to
+
+seizures,
+hallucinations, and/or
+dehydration.
+It is important to seek treatment for the underlying cause of a fever in the situations described above. Many of the infections that can cause fever can lead to severe complications if untreated.
+
+The prognosis for a fever and how long it lasts depends on the cause. Most cases of fever are self-limited and resolve with symptomatic treatment. For example, a fever associated with a common cold usually only lasts two to three days. If fever is caused by influenza, most flu symptoms including fever go away in about a week. Depending on the cause, antibiotics or other appropriate medications may be used.
+
+Fevers associated with severe infections, or in patients whose immune system is compromised (such as those with cancer, elderly people, newborn infants, patients with HIV/AIDS, or people with autoimmune disorders), can be life-threatening.
+
+
+Is it possible to prevent a fever?
+Prevention of fever is possible only to the extent that the specific cause of the fever can be prevented. Most fevers are caused by infection. Avoiding sources of infection and maintaining good hygiene practices are the best way to prevent a fever.
+
+Some ways to prevent the spread of infection include the following:
+
+Proper hygiene: Wash hands frequently.
+Avoid contact with sick people.
+Make sure immunizations are up to date.
+
+
+

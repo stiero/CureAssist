@@ -1,0 +1,193 @@
+A cramp is a sudden, involuntary muscle contraction or over-shortening; while generally temporary and non-damaging, they can cause significant pain, and a paralysis-like immobility of the affected muscle. Onset is usually sudden, and it resolves on its own over a period of several seconds, minutes or hours. Cramps may occur in a skeletal muscle or smooth muscle. Skeletal muscle cramps may be caused by muscle fatigue or a lack of electrolytes such as low sodium, low potassium or low magnesium. Cramps of smooth muscle may be due to menstruation or gastroenteritis.
+
+
+Muscle contraction begins with the brain setting off action potentials, which are waves in the electrical charges that extend along neurons. The waves travel to a group of cells in a muscle, letting calcium ions out from the cells' sarcoplasmic reticula (SR), which are storage areas for calcium. The released calcium lets myofibrils contract under the power of energy-carrying adenosine triphosphate (ATP) molecules. Meanwhile, the calcium is quickly pumped back into the SR by fast calcium pumps. Each muscle cell contracts fully; stronger contraction of the whole muscle requires more action potentials on more groups of cells in the muscle. When the action potentials stop, the calcium stops flowing from the SR and the muscle relaxes. The fast calcium pumps are powered by the sodium gradient, or the pent-up sodium ions that rush out from the SR. The sodium gradient is maintained by the sodium-potassium pump. A lack of sodium would prevent the sodium gradient from being strong enough to power the calcium pumps; the calcium ions would remain in the myofibrils, forcing the muscle to stay contracted and causing a cramp. The cramp eventually eases as slow calcium pumps, powered by ATP instead of the sodium gradient, push the calcium back into storage.[citation needed]
+
+Electrolyte disturbance, particularly hypokalemia and hypocalcaemia, may cause cramping and muscle tetany. This disturbance can also be caused by the body sweating out large amounts of interstitial fluid, which is mostly water and salt (sodium chloride). As muscle cells contain more osmotically-active particles, the loss of osmotically-active sodium particles from muscle cells disturbs the osmotic balance and therefore shrinks muscle cells. This causes the calcium pump between the muscle sarcoplasm and sarcoplasmic reticulum to "short circuit";[how?] the calcium ions remain bound to the troponin, continuing muscle contraction.
+
+Cramps can occur when muscles are unable to relax properly due to myosin fibers not fully detaching from actin filaments. In skeletal muscle, ATP levels must be large enough to bind to the myosin heads for them to attach or detach from the actin and allow contraction or relaxation; the absence of enough levels of ATP means that the myosin heads remains attached to actin.[contradictory] The muscle must be allowed to recover (resynthesize ATP), before the myosin fibres can detach and allow the muscle to relax. Skeletal muscles work as antagonistic pairs. Contracting one skeletal muscle requires the relaxation of the opposing muscle in the pair. An attempt to force a muscle cramped by low ATP to extend (by contracting the opposing muscle) can tear muscle tissue and worsen the pain.[citation needed]
+
+Differential diagnosis
+Causes of cramping include[1] hyperflexion, hypoxia, exposure to large changes in temperature, dehydration, or low blood salt. Muscle cramps can also be a symptom or complication of pregnancy; kidney disease; thyroid disease; hypokalemia, hypomagnesemia, or hypocalcaemia (as conditions); restless legs syndrome; varicose veins;[2] and multiple sclerosis.[3]
+
+As early as 1965, researchers observed that leg cramps and restless legs syndrome can result from excess insulin, sometimes called hyperinsulinemia.[4]
+
+Skeletal muscle cramps
+See also: Exercise-associated muscle cramps
+Under normal circumstances, skeletal muscles can be voluntarily controlled. Skeletal muscles that cramp the most often are the calves, thighs, and arches of the foot, and are sometimes called a "Charley horse" or a "corky". Such cramping is associated with strenuous physical activity and can be intensely painful; however, they can even occur while inactive and relaxed. Around 40% of people who experience skeletal cramps are likely to endure extreme muscle pain, and may be unable to use the entire limb that contains the "locked-up" muscle group. It may take up to seven days for the muscle to return to a pain-free state.
+
+Nocturnal leg cramps
+See also: Charley horse
+Nocturnal leg cramps are involuntary muscle contractions that occur in the calves, soles of the feet, or other muscles in the body during the night or (less commonly) while resting. The duration of nocturnal leg cramps is variable, with cramps lasting anywhere from a few seconds to several minutes. Muscle soreness may remain after the cramp itself ends. These cramps are more common in older people.[5] They happen quite frequently in teenagers and in some people while exercising at night. The precise cause of these cramps is unclear. Potential contributing factors include dehydration, low levels of certain minerals (magnesium, potassium, calcium, and sodium, although the evidence has been mixed),[6][7][8] and reduced blood flow through muscles attendant in prolonged sitting or lying down. Nocturnal leg cramps (almost exclusively calf cramps) are considered "normal" during the late stages of pregnancy.[citation needed] They can, however, vary in intensity from mild to extremely painful.
+
+A lactic acid buildup around muscles can trigger cramps; however, these happen during anaerobic respiration when a person is exercising or engaging in an activity where the heartbeat speeds up. Medical conditions associated with leg cramps are cardiovascular disease, hemodialysis, cirrhosis, pregnancy, and lumbar canal stenosis. Differential diagnoses include restless legs syndrome, claudication, myositis, peripheral neuropathy. All of these can be differentiated through careful history and physical examination.[8]
+
+Gentle stretching and massage, putting some pressure on the affected leg by walking or standing, or taking a warm bath or shower may help to end the cramp.[9] If the cramp is in the calf muscle, pulling the big toe gently backwards will stretch the muscle and, in some cases, cause almost immediate relief. There is limited evidence supporting the use of magnesium, calcium channel blockers, carisoprodol, and vitamin B12.[8]
+
+Quinine is no longer recommended for treatment of nocturnal leg cramps due to potential fatal hypersensitivity reactions and thrombocytopenia. Arrhythmias, cinchonism, hemolytic uremic syndrome can also occur at higher dosages.[8]
+
+Smooth muscle cramps
+Smooth muscle contractions may be symptomatic of endometriosis or other health problems. Menstrual cramps may also occur both before and during a menstrual cycle.
+
+Iatrogenic causes
+Various medications may cause nocturnal leg cramps:[8][10]
+
+Diuretics, especially potassium sparing
+Intravenous (IV) iron sucrose
+Conjugated estrogens
+Teriparatide
+Naproxen
+Raloxifene
+Long acting adrenergic beta-agonists (LABAs)
+Hydroxymethylglutaryl-coenzyme A reductase inhibitors (HMG-CoA inhibitors or statins)
+Besides being painful, a nocturnal leg cramp can cause much distress and anxiety.[11] Statins may sometimes cause myalgia and cramps among other possible side effects. Raloxifene (Evista) is a medication associated with a high incidence of leg cramps. Additional factors, which increase the probability for these side effects, are physical exercise, age, female gender, history of cramps, and hypothyroidism. Up to 80% of athletes using statins suffer significant adverse muscular effects, including cramps;[12] the rate appears to be approximately 10–25% in a typical statin-using population.[13][14] In some cases, adverse effects disappear after switching to a different statin; however, they should not be ignored if they persist, as they can, in rare cases, develop into more serious problems. Coenzyme Q10 supplementation can be helpful to avoid some statin-related adverse effects, but currently there is not enough evidence to prove the effectiveness in avoiding myopathy or myalgia.[15]
+
+Treatment
+Stretching, massage and drinking plenty of liquids, such as water, may be helpful in treating simple muscle cramps.[16] With exertional heat cramps due to electrolyte abnormalities (primarily sodium loss and not calcium, magnesium, and potassium), appropriate fluids and sufficient salt improves symptoms.[17]
+
+Medication
+Quinine is likely to be effective; however, due to side effects, its use should only be considered if other treatments have failed.[18] Vitamin B complex, naftidrofuryl, lidocaine, and calcium channel blockers may be effective for muscle cramps.[18] Research has also shown that pickle "juice" can be an effective remedy based on its high sodium and electrolyte content.[19] Cyclobenzaprine (Flexeril) has proven effective in preventing muscle cramps, although data suggests that effectiveness decreases when taken for more than several weeks.[citation needed]
+
+Prevention
+Adequate conditioning, stretching, mental preparation, hydration, and electrolyte balance are likely helpful in preventing muscle cramps.[16]
+
+A muscle cramp is an involuntarily and forcibly contracted muscle that does not relax.
+Muscle cramps can occur in any muscle; cramps of the leg muscles and feet are particularly common.
+Almost everyone experiences a muscle cramp at some time in their life.
+There are a variety of types and causes of muscle cramps.
+Muscle cramps may occur during exercise, at rest, or at night, depending upon the exact cause.
+Dehydration is a common cause of muscle cramps.
+Numerous medicines can cause muscle cramps.
+Most muscle cramps can be stopped if the muscle can be stretched.
+Muscle cramps can often be prevented by measures such as adequate nutrition and hydration, attention to safety when exercising, and attention to ergonomic factors.
+
+Cramps can be perceived as mild twitches or may be excruciatingly painful. Typically, cramps cause an abrupt, intense pain in the involved muscle.
+
+Often a muscle that is cramping feels harder than normal to the touch or may even show visible signs of twitching.
+
+A muscle cramp is an involuntarily and forcibly contracted muscle that does not relax. When we use the muscles that can be controlled voluntarily, such as those of our arms and legs, they alternately contract and relax as we move our limbs. Muscles that support our head, neck, and trunk contract similarly in a synchronized fashion to maintain our posture. A muscle (or even a few fibers of a muscle) that involuntarily (without consciously willing it) contracts is in a "spasm." If the spasm is forceful and sustained, it becomes a cramp. Muscle cramps often cause a visible or palpable hardening of the involved muscle.
+
+Muscle cramps can last anywhere from a few seconds to a quarter of an hour or occasionally longer. It is not uncommon for a cramp to recur multiple times until it finally resolves. The cramp may involve a part of a muscle, the entire muscle, or several muscles that usually act together, such as those that flex adjacent fingers. Some cramps involve the simultaneous contraction of muscles that ordinarily move body parts in opposite directions.
+
+Muscle cramps are extremely common. Almost everyone (one estimate is about 95%) experiences a cramp at some time in their life. Muscle cramps are common in adults and become increasingly frequent with aging. However, children also experience cramps of muscles.
+
+Any of the muscles that are under our voluntary control (skeletal muscles) can cramp. Cramps of the extremities, especially the legs and feet (including nocturnal leg cramps), and most particularly the calf (the classic "charley horse"), are very common. Involuntary muscles of the various organs (uterus, blood vessel wall, bowels, bile and urine passages, bronchial tree, etc.) are also subject to cramps. Cramps of the involuntary muscles will not be further considered in this review. This article focuses on cramps of skeletal muscle.
+
+Skeletal muscle cramps can be categorized into four major types. These include "true" cramps, tetany, contractures, and dystonic cramps. Cramps are categorized according to their different causes and the muscle groups they affect.
+
+Types of muscle cramps: True cramps
+True cramps involve part or all of a single muscle or a group of muscles that generally act together, such as the muscles that flex several adjacent fingers or the leg muscles. Most authorities agree that true cramps are caused by hyperexcitability of the nerves that stimulate the muscles. They are overwhelmingly the most common type of skeletal muscle cramps. True cramps can occur in a variety of circumstances as follows.
+
+Injury: Persistent muscle spasm may occur as a protective mechanism following an injury, such as a broken bone. In this instance, the spasm tends to minimize movement and stabilize the area of injury. Injury of the muscle alone may cause the muscle to spasm.
+
+Vigorous activity: True cramps are commonly associated with the vigorous use of muscles and muscle fatigue (in sports or with unaccustomed activities). Such cramps may come during the activity or later, sometimes many hours later. Likewise, muscle fatigue from sitting or lying for an extended period in an awkward position or any repetitive use can cause cramps. Older adults are at risk for cramps when performing vigorous or strenuous physical activities.
+
+Rest cramps: Cramps at rest are very common, especially in older adults, but may be experienced at any age, including childhood. Rest muscle cramps often occur at night. While not life threatening, night cramps (commonly known as nocturnal cramps) can be painful, disruptive of sleep, and they can recur frequently (that is, many times a night, and/or many nights each week). The actual cause of night cramps is unknown. Sometimes, such cramps are initiated by making a movement that shortens the muscle. An example is pointing the toe down while lying in bed, which shortens the calf muscle of the leg, a common site of muscle cramps.
+
+Dehydration: Sports and other vigorous activities, including activities of endurance athletes, can cause excessive fluid loss from perspiration. This kind of dehydration increases the likelihood of true cramps. These cramps are more likely to occur in warm weather and can be an early sign of heat stroke. Chronic volume depletion of body fluids from diuretics (medicine that promote urination) and poor fluid intake both lead to dehydration and may act similarly to predispose to cramps, especially in older people. Sodium depletion has also been associated with cramps. Loss of sodium, the most abundant chemical constituent of body fluids outside the cell, is usually a function of dehydration.
+
+Body fluid shifts: True cramps also may be experienced in other conditions that feature an unusual distribution of body fluids. An example is cirrhosis of the liver, which leads to the accumulation of fluid in the abdominal cavity (ascites). Similarly, cramps are a relatively frequent complication of the rapid body fluid changes that occur during dialysis for kidney failure.
+
+Low blood calcium or magnesium: Low blood levels of either calcium or magnesium directly increase the excitability of both the nerve endings and the muscles they stimulate. This may be a predisposing factor for the spontaneous true cramps experienced by many older adults, as well as for those muscle cramps that are commonly noted during pregnancy. Low levels of calcium and magnesium are common in pregnant women unless these minerals are supplemented in the diet. Cramps are seen in any circumstance that decreases the availability of calcium or magnesium in body fluids, such as taking diuretics, hyperventilation (overbreathing), excessive vomiting, inadequate calcium and/or magnesium in the diet, inadequate calcium absorption due to vitamin D deficiency, poor function of the parathyroid glands (tiny glands in the neck that regulate calcium balance), and other conditions.
+
+Low potassium: Low potassium blood levels occasionally cause muscle cramps, although it is more common for low potassium to be associated with muscle weakness.
+
+In tetany, all of the nerve cells in the body are activated, which then stimulate the muscles. This reaction causes spasms or cramps throughout the body. The name tetany is derived from the effect of the tetanus toxin on the nerves. However, the name is now commonly applied to muscle cramping from other conditions, such as low blood levels of calcium and magnesium. Low calcium and low magnesium, which increase the activity of nerve tissue nonspecifically, also can produce tetanic cramps. Often, such cramps are accompanied by evidence of hyperactivity of other nerve functions in addition to muscle stimulation. For instance, low blood calcium not only causes spasm of the muscles of the hands and wrists, but it can also cause a sensation of numbness and tingling around the mouth and other areas.
+
+Sometimes, tetanic cramps are indistinguishable from true cramps. The accompanying changes of sensation or other nerve functions that occurs with tetany may not be apparent because the cramp pain is masking or distracting from it.
+
+The final category is dystonic cramps, in which muscles that are not needed for the intended movement are stimulated to contract. Muscles that are affected by this type of cramping include those that ordinarily work in the opposite direction of the intended movement, and/or others that exaggerate the movement. Some dystonic cramps usually affect small groups of muscles (eyelids, jaws, neck, larynx, etc.). The hands and arms may be affected during the performance of repetitive activities such as those associated with handwriting (writer's cramp), typing, playing certain musical instruments, and many others. Each of these repetitive activities may also produce true cramps from muscle fatigue. Dystonic cramps are not as common as true cramps.
+
+Answer: A contracture is a condition that may mimic a muscle cramp.
+
+A contracture is a scarring of the soft tissues that muscle movements normally affect. When a contracture is present, the tissue that is involved cannot move completely, whether the corresponding muscle is activated or relaxed. This is because the scarred tissue cannot move in response to muscle movements. This leads to a fixed body part with loss of full range of motion. The most common type of contracture occurs in the palm of the hand and affects the tendons that normally cause the fingers to close with gripping. Most commonly, this form of contracture affects the ring finger. This contracture is known as a Dupuytren's contracture of the hand.
+
+No. Not all cramps are readily categorized in the preceding manner since these categories best apply to cramps that make up an individual's major muscle problem. Many cramps are a relatively minor part of nerve and muscle diseases; other muscle symptoms are usually more prominent in these diseases. Some examples include amyotrophic lateral sclerosis (Lou Gehrig's disease) with weakness and muscle wasting; radiculopathy (spinal nerve irritation or compression from various causes) with pain, distortion or loss of sensation, and/or weakness; diseases of the peripheral nerves, such as diabetic neuropathy, with distorted and diminished sensation and weakness; and a number of primarily dystonic muscle diseases.
+
+Numerous medicines can cause cramps. Potent diuretic medications, such as furosemide (Lasix), or the vigorous removal of body fluids, even with less potent diuretics, can induce cramps by depleting body fluid and sodium. Simultaneously, diuretics often cause the loss of potassium, calcium, and magnesium, which can also cause cramps.
+
+Medications such as donepezil (Aricept, used for Alzheimer's disease) and neostigmine (Prostigmine and others, used for myasthenia gravis) as well as raloxifene (Evista, used to prevent osteoporosis in postmenopausal women) can cause cramps. Tolcapone (Tasmar, used for Parkinson's disease) reportedly causes muscle cramps in at least 10% of patients. True cramps have been reported with nifedipine (Procardia and others, used for angina, high blood pressure and other conditions) and the asthma drugs terbutaline (Brethine) and albuterol (Proventil, Ventolin, and others). Some medicines used to lower cholesterol, such as lovastatin (Mevacor), can also lead to cramps.
+
+Cramps are sometimes noted in addicted individuals during withdrawal from medications and substances that have sedative effects, including alcohol, barbiturates and other sedatives, anti-anxiety agents such as benzodiazepines (for example, diazepam [Valium] and alprazolam [Xanax]), narcotics, and other drugs.
+
+Several vitamin deficiency states may directly or indirectly lead to muscle cramps. These include deficiencies of thiamine (B1), pantothenic acid (B5), and pyridoxine (B6). The precise role of deficiency of these vitamins in causing cramps is unknown.
+
+Can poor circulation cause muscle cramps?
+Poor circulation to the leg muscles, which results in inadequate oxygen to the muscle tissue, can cause severe pain in the leg muscle (sometimes known as claudication pain or intermittent claudication) that occurs with walking or exercise. This commonly occurs in the calf muscles. While the pain feels virtually identical to that of a severely cramped muscle, the pain does not seem to be a result of the actual muscle cramping. This pain may be due to accumulation of lactic acid and other chemicals in the muscle tissues. It's important to see your doctor if you have pain like this.
+
+Characteristically, a cramp is painful, often severely so. Usually, the sufferer must stop whatever activity is under way and seek relief from the cramp; the person is unable to use the affected muscle while it is cramping. Severe cramps may be associated with soreness and swelling, which can occasionally persist up to several days after the cramp has subsided. At the time of cramping, the knotted muscle will bulge, feel very firm, and may be tender.
+
+There are no special tests for cramps. Nevertheless, the diagnosis of muscle cramps is relatively easy. Most people know what cramps are and when they have one. If present during a cramp, the doctor, or any other bystander, can feel the tense, firm bulge of the cramped muscle.
+
+Because there are so many different causes and types of muscle cramps, many different medical specialists may be involved in their treatment. Most commonly, patients would consult their primary-care provider, including specialists in internal medicine or family medicine. If the cramps are the result of a sudden injury or illness, emergency-medicine specialists would treat the patient. Cramps due to specific medical conditions may be treated by different specialists, including neurologists, orthopedists, nephrologists, endocrinologists, cardiologists, sports-medicine specialists, physiatrists, or surgeons.
+
+Most cramps can be stopped if the muscle can be stretched. For many cramps of the feet and legs, this stretching can often be accomplished by standing up and walking around. For a calf muscle cramp, the person can stand about 2 to 2.5 feet from a wall (possibly farther for a tall person) and lean into the wall to place the forearms against the wall with the knees and back straight and the heels in contact with the floor. (It is best to learn this maneuver at a time when you don't have the cramp.) Another technique involves flexing the ankle by pulling the toes up toward the head while still lying in bed with the leg as straight as possible. For writer's cramp (contractures in the hand), pressing the hand on a wall with the fingers facing down will stretch the cramping finger flexor muscles.
+
+Gently massaging the muscle will often help it to relax, as will applying warmth from a heating pad or hot soak. If the cramp is associated with fluid loss, as is often the case with vigorous physical activity, fluid and electrolyte (especially sodium and potassium) replacement is essential. Medicines generally are not needed to treat an ordinary cramp that is active since most cramps subside spontaneously before enough medicine would be absorbed to even have an effect.
+
+Muscle relaxant medications may be used over the short-term in certain situations to relax muscle cramps due to an injury or other temporary event. These medications include cyclobenzaprine (Flexeril), orphenadrine (Norflex), and baclofen (Lioresal).
+
+In recent years, injections of therapeutic doses of botulism toxin (Botox) have been used successfully for some dystonic muscle disorders that are localized to a limited group of muscles. A good response may last several months or more, and the injection may then be repeated.
+
+The treatment of cramps that are associated with specific medical conditions generally focuses on treating the underlying condition. Sometimes, additional medications specifically for cramps are prescribed with certain of these conditions.
+
+Of course, if cramps are severe, frequent, persistent, respond poorly to simple treatments, or are not associated with an obvious cause, then the patient and the doctor need to consider the possibility that more intensive treatment is indicated or that the cramps are a manifestation of another disease. As described above, the possibilities are extremely varied and include problems with circulation, nerves, metabolism, hormones, medications, and nutrition. It is uncommon for muscle cramps to occur as the result of a medical condition without other obvious signs that the medical condition is present.
+
+Cramps are inevitable, but if possible, it would be best to prevent them.
+
+During activity: Authorities recommend stretching before and after exercise or sports, along with an adequate warm-up and cooldown, to prevent cramps that are caused by vigorous physical activity. Good hydration before, during, and after the activity is important, especially if the duration exceeds one hour, and replacement of lost electrolytes (especially sodium and potassium, which are major components of perspiration) can also be helpful. Excessive fatigue, especially in warm weather, should be avoided.
+
+
+
+How much should I drink? Hydration guidelines should be individualized for each person. The goal is to prevent excessive weight loss (>2% of body weight). You should weigh yourself before and after exercise to see how much fluid you lose through sweat. One liter of water weighs 2.25 pounds. Depending on the amount of exercise, temperature and humidity, body weight, and other factors, you can lose anywhere from approximately .4 to 1.8 liters per hour.
+
+Pre-exercise hydration (if needed):
+
+0.5 liters per hour for a 180-pound person several hours (three to four hours) prior to exercise.
+Consuming beverages with sodium and/or small amounts of salted snacks or sodium-containing foods at meals will help to stimulate thirst and retain the consumed fluids.
+During exercise:
+
+Suggested starting points for marathon runners are 0.4 to 0.8 liters per hour, but again, this should be individualized based on body weight loss.
+There should be no more than 10% carbohydrate in the beverage, and 7% has generally been considered close to optimal. Carbohydrate consumption is generally recommended only after one hour of exertion.
+Electrolyte repletion (sodium and potassium) can help sustain electrolyte balance during exercise, particularly when
+there is inadequate access to meals or meals are not eaten,
+physical activity exceeds four hours in duration, or
+during the initial days of hot weather.
+Under these conditions, adding modest amounts of salt (0.3 g/L to 0.7 g/L) can offset salt loss in sweat and minimize medical events associated with electrolyte imbalances (for example, muscle cramps, hyponatremia).
+
+Post-exercise:
+
+Drink approximately 0.5 liters of water for every pound of body weight lost.
+Consuming beverages and snacks with sodium will help expedite rapid and complete recovery by stimulating thirst and fluid retention.
+
+During pregnancy: Supplemental calcium and magnesium have each been shown to help prevent cramps associated with pregnancy. An adequate intake of both of these minerals during pregnancy is important for this and other reasons, but supervision by a qualified health care professional is essential.
+
+While experiencing dystonic cramps: Cramps that are induced by repetitive non-vigorous activities can sometimes be prevented or minimized by careful attention to ergonomic factors such as wrist supports, avoiding high heels, adjusting chair position, activity breaks, and using comfortable positions and equipment while performing the activity. Learning to avoid excessive tension while executing problem activities can help. However, cramps can remain very troublesome for activities that are difficult to modify, such as playing a musical instrument.
+
+While experiencing rest cramps: Nocturnal cramps and other rest cramps can often be prevented by regular stretching exercises, particularly if done before going to bed. Even the simple calf-stretching maneuver (described in the first paragraph of the section on treatment), if held for 10 to 15 seconds and repeated two or three times just before going to bed, can be a great help in preventing nocturnal leg cramps. The maneuver can be repeated each time you get up to go to the bathroom during the night and also once or twice during the day. If nocturnal leg cramps are severe and recurrent, a foot board can be used to simulate walking even while recumbent and may prevent awkward positioning of the feet during sleep. Ask your doctor about this remedy.
+
+Another important aspect of prevention of night cramps is adequate calcium and magnesium. Blood levels may not be sensitive enough to accurately reflect what is happening at the tissue surfaces where the hyperexcitability of the nerve occurs. Calcium intake of at least 1 gram daily is reasonable, and 1.5 grams may be appropriate, particularly for women with or at risk for osteoporosis. An extra dose of calcium at bedtime may help prevent cramps.
+
+Supplemental magnesium may be very beneficial for some, particularly if the person has a magnesium deficiency. However, added magnesium can be very hazardous for people who have difficulty eliminating magnesium, as happens with kidney insufficiency. The vigorous use of diuretics usually increases magnesium loss, and high levels of calcium intake (and therefore of calcium excretion) tend to increase magnesium excretion. Magnesium is present in many foods (greens, grains, meat and fish, bananas, apricots, nuts, and soybeans) and some laxatives and antacids, but a supplemental dose of 50-100 milligrams of magnesium daily may be appropriate. Splitting the dose and taking a portion several times during the day minimizes the tendency to diarrhea that magnesium can cause.
+
+Vitamin E has also been said to help minimize cramp occurrence. Scientific studies documenting this effect are lacking, but anecdotal reports are common. Since vitamin E is thought to have other beneficial health effects and is not toxic in usual doses, taking 400 units of vitamin E daily is approved, recognizing that documentation on its effect on cramps is lacking.
+
+Older adults should have periodic magnesium blood levels taken if they use supplemental magnesium. Even a mild and otherwise not apparent degree of kidney dysfunction, which is often seen in this age group, may lead to toxic levels of magnesium with modest doses.
+
+Recent studies have indicated that vitamin D (a vitamin required for the normal absorption of calcium from food) deficiency is common in some elderly individuals. Consequently, vitamin D replacement is important for these people, taking appropriate care to avoid excessive vitamin D levels, as these are toxic. An intake at least 400 units daily has been recommended in the past; more recently, experts have questioned whether this dose of vitamin D is sufficient, especially for people with little or no sun exposure (sunlight promotes the formation of vitamin D in the body). However, excessive doses of vitamin D are known to be toxic. The upper limit of dosing for vitamin D supplementation has been recommended as 2,000 IU daily. Your health care professional can help you decide how much vitamin D you should take, taking your individual situation and medical history into account.
+
+While the more potent diuretics are associated with an increased loss of calcium and magnesium, hydrochlorothiazide (HydroDIURIL and others) and related diuretics are associated with calcium and magnesium retention. Diuretics are commonly used for the treatment of hypertension and heart failure. If cramps (or osteoporosis) are also a problem, the patient and doctor may consider using hydrochlorothiazide or another thiazide type of diuretic if otherwise feasible and appropriate.
+
+Diuretics also cause sodium depletion and most also cause potassium depletion. Many patients who use diuretics are also on sodium-restricted diets. Careful attention to the effects of diuretics on sodium and potassium, and replacement of these elements as needed, is always appropriate, even more so if cramps are a problem.
+
+Older adults often do not hydrate themselves adequately, partly because the sense of thirst diminishes with age. This situation is exaggerated in those who are treated with diuretics. For some, simply increasing fluid intake to the generally recommended six to eight glasses a day will improve the cramps. However, drinks with caffeine should not be counted since they act on the kidneys to increase fluid loss. Individuals who are on restricted fluid intake should consult their doctor on this issue and must not ignore their recommended fluid intake limits.
+
+As for night cramps, the exact cause is often difficult to determine. The best prevention involves stretching regularly, adequate fluid intake, appropriate calcium and vitamin D intake, supplemental vitamin E, and possibly -- with physician consultation -- supplemental magnesium intake.
+
+
+
+In recent times, the only medication that has been widely used to prevent, and sometimes also to treat, cramps is quinine. Quinine has been used for years in the treatment of malaria. Quinine acts by decreasing the excitability of the muscles. It has also been shown to be effective in many, but not all, scientific studies. However, quinine also causes birth defects and miscarriages as well as serious side effects. It has also occasionally caused hypersensitivity reactions and a deficiency of platelets, which are the blood components responsible for clotting. Either of these reactions can be fatal. Quinine is also associated with a cluster of symptoms called cinchonism (nausea, vomiting, headaches, and deafness). Additionally, vision and heart irregularities can occur. Consequently, quinine tablets are not available in the United States. Quinine is available in grocery stores in tonic water. The U.S. FDA does not recommend or endorse the use of quinine to treat or prevent muscle cramps. Nevertheless, quinine is sometimes recommended as quinine water (tonic water) prior to bedtime to prevent night muscle cramps. Always consult your health care professional before taking quinine for cramps.
+
+Although cramps can be a great nuisance, they are a benign condition. Their importance is limited to the discomfort and inconvenience they cause, or to the diseases associated with them. Careful attention to the preceding recommendations will greatly diminish the problem of cramps for most individuals. Those with persistent or severe muscle cramps should seek medical attention.
+
+

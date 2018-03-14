@@ -1,0 +1,564 @@
+Diarrhea, also spelled diarrhoea, is the condition of having at least three loose or liquid bowel movements each day.[2] It often lasts for a few days and can result in dehydration due to fluid loss.[2] Signs of dehydration often begin with loss of the normal stretchiness of the skin and irritable behaviour.[2] This can progress to decreased urination, loss of skin color, a fast heart rate, and a decrease in responsiveness as it becomes more severe.[2] Loose but non-watery stools in babies who are exclusively breastfed, however, are normal.[2]
+
+The most common cause is an infection of the intestines due to either a virus, bacteria, or parasite - a condition also known as gastroenteritis.[2] These infections are often acquired from food or water that has been contaminated by feces, or directly from another person who is infected.[2] The three types of diarrhea are: short duration watery diarrhea, short duration bloody diarrhea, and persistent diarrhea (lasting more than two weeks).[2] The short duration watery diarrhea may be due to an infection by cholera, although this is rare in the developed world.[2] If blood is present it is also known as dysentery.[2] A number of non-infectious causes can result in diarrhea.[5] These include lactose intolerance, irritable bowel syndrome, non-celiac gluten sensitivity, celiac disease, inflammatory bowel disease, hyperthyroidism, bile acid diarrhea, and a number of medications.[5][6][7] In most cases, stool cultures to confirm the exact cause are not required.[8]
+
+Diarrhea can be prevented by improved sanitation, clean drinking water, and hand washing with soap.[2] Breastfeeding for at least six months and vaccination against rotavirus is also recommended.[2] Oral rehydration solution (ORS)--clean water with modest amounts of salts and sugar—is the treatment of choice.[2] Zinc tablets are also recommended.[2] These treatments have been estimated to have saved 50 million children in the past 25 years.[1] When people have diarrhea it is recommended that they continue to eat healthy food and babies continue to be breastfed.[2] If commercial ORS are not available, homemade solutions may be used.[9] In those with severe dehydration, intravenous fluids may be required.[2] Most cases; however, can be managed well with fluids by mouth.[10] Antibiotics, while rarely used, may be recommended in a few cases such as those who have bloody diarrhea and a high fever, those with severe diarrhea following travelling, and those who grow specific bacteria or parasites in their stool.[8] Loperamide may help decrease the number of bowel movements but is not recommended in those with severe disease.[8]
+
+About 1.7 to 5 billion cases of diarrhea occur per year.[2][5][11] It is most common in developing countries, where young children get diarrhea on average three times a year.[2] Total deaths from diarrhea are estimated at 1.26 million in 2013 – down from 2.58 million in 1990.[12] In 2012, it was the second most common cause of deaths in children younger than five (0.76 million or 11%).[2][13] Frequent episodes of diarrhea are also a common cause of malnutrition and the most common cause in those younger than five years of age.[2] Other long term problems that can result include stunted growth and poor intellectual development.[13]
+
+Diarrhea is defined by the World Health Organization as having three or more loose or liquid stools per day, or as having more stools than is normal for that person.[2]
+
+Acute diarrhea is defined as an abnormally frequent discharge of semisolid or fluid fecal matter from the bowel, lasting less than 14 days, by World Gastroenterology Organization.[14]
+
+Secretory
+Secretory diarrhea means that there is an increase in the active secretion, or there is an inhibition of absorption. There is little to no structural damage. The most common cause of this type of diarrhea is a cholera toxin that stimulates the secretion of anions, especially chloride ions. Therefore, to maintain a charge balance in the gastrointestinal tract, sodium is carried with it, along with water. In this type of diarrhea intestinal fluid secretion is isotonic with plasma even during fasting.[15][16] It continues even when there is no oral food intake.
+
+Osmotic
+Osmotic diarrhea occurs when too much water is drawn into the bowels. If a person drinks solutions with excessive sugar or excessive salt, these can draw water from the body into the bowel and cause osmotic diarrhea.[17][16] Osmotic diarrhea can also be the result of maldigestion (e.g., pancreatic disease or coeliac disease), in which the nutrients are left in the lumen to pull in water. Or it can be caused by osmotic laxatives (which work to alleviate constipation by drawing water into the bowels). In healthy individuals, too much magnesium or vitamin C or undigested lactose can produce osmotic diarrhea and distention of the bowel. A person who has lactose intolerance can have difficulty absorbing lactose after an extraordinarily high intake of dairy products. In persons who have fructose malabsorption, excess fructose intake can also cause diarrhea. High-fructose foods that also have a high glucose content are more absorbable and less likely to cause diarrhea. Sugar alcohols such as sorbitol (often found in sugar-free foods) are difficult for the body to absorb and, in large amounts, may lead to osmotic diarrhea.[15] In most of these cases, osmotic diarrhea stops when the offending agent (e.g. milk, sorbitol) is stopped.
+
+Exudative
+Exudative diarrhea occurs with the presence of blood and pus in the stool. This occurs with inflammatory bowel diseases, such as Crohn's disease or ulcerative colitis, and other severe infections such as E. coli or other forms of food poisoning.[16][15]
+
+Inflammatory
+Inflammatory diarrhea occurs when there is damage to the mucosal lining or brush border, which leads to a passive loss of protein-rich fluids and a decreased ability to absorb these lost fluids. Features of all three of the other types of diarrhea[clarification needed] can be found in this type of diarrhea. It can be caused by bacterial infections, viral infections, parasitic infections, or autoimmune problems such as inflammatory bowel diseases. It can also be caused by tuberculosis, colon cancer, and enteritis.[16]
+
+Dysentery
+If there is blood visible in the stools, it is also known as dysentery. The blood is a trace of an invasion of bowel tissue. Dysentery is a symptom of, among others, Shigella, Entamoeba histolytica, and Salmonella.[16]
+
+Health effects
+Diarrheal disease may have a negative impact on both physical fitness and mental development. "Early childhood malnutrition resulting from any cause reduces physical fitness and work productivity in adults,"[18] and diarrhea is a primary cause of childhood malnutrition.[19] Further, evidence suggests that diarrheal disease has significant impacts on mental development and health; it has been shown that, even when controlling for helminth infection and early breastfeeding, children who had experienced severe diarrhea had significantly lower scores on a series of tests of intelligence.[18][20]
+
+Diarrhea can cause electrolyte imbalances, renal impairment, dehydration, and defective immune system responses. When oral drugs are administered, the efficiency of the drug is to produce a therapeutic effect and the lack of this effect may be due to the medication travelling too quickly through the digestive system, limiting the time that it can be absorbed. Clinicians try to treat the diarrheas by reducing the dosage of medication, changing the dosing schedule, discontinuation of the drug, and rehydration. The interventions to control the diarrhea are not often effective. Diarrhea can have a profound effect on the quality of life because fecal incontinence is one of the leading factors for placing older adults in long term care facilities (nursing homes).[16]
+
+Differential diagnosis
+
+Diagram of the human gastrointestinal tract.
+Acute diarrhea is most commonly due to viral gastroenteritis with rotavirus, which accounts for 40% of cases in children under five.[1] In travelers, however, bacterial infections predominate.[21] Various toxins such as mushroom poisoning and drugs can also cause acute diarrhea.
+
+Chronic diarrhea can be the part of the presentations of a number of chronic medical conditions affecting the intestine. Common causes include ulcerative colitis, Crohn's disease, microscopic colitis, celiac disease, irritable bowel syndrome and bile acid malabsorption.
+
+Infections
+Main article: Infectious diarrhea
+There are many causes of infectious diarrhea, which include viruses, bacteria and parasites.[22] Infectious diarrhea is frequently referred to as gastroenteritis.[23] Norovirus is the most common cause of viral diarrhea in adults,[24] but rotavirus is the most common cause in children under five years old.[25] Adenovirus types 40 and 41,[26] and astroviruses cause a significant number of infections.[27]
+
+Campylobacter spp. are a common cause of bacterial diarrhea, but infections by Salmonella spp., Shigella spp. and some strains of Escherichia coli are also a frequent cause.[28]
+
+In the elderly, particularly those who have been treated with antibiotics for unrelated infections, a toxin produced by Clostridium difficile often causes severe diarrhea.[29]
+
+Parasites, particularly protozoa (e.g., Cryptosporidium spp., Giardia spp., Entamoeba histolytica, Blastocystis spp., Cyclospora cayetanensis), are frequently the cause of diarrhea that involves chronic infection. The broad-spectrum antiparasitic agent nitazoxanide has shown efficacy against many diarrhea-causing parasites.[30]
+
+Other infectious agents, such as parasites or bacterial toxins, may exacerbate symptoms.[21] In sanitary living conditions where there is ample food and a supply of clean water, an otherwise healthy person usually recovers from viral infections in a few days. However, for ill or malnourished individuals, diarrhea can lead to severe dehydration and can become life-threatening.[31]
+
+Malabsorption
+Main article: Malabsorption
+Malabsorption is the inability to absorb food fully, mostly from disorders in the small bowel, but also due to maldigestion from diseases of the pancreas.
+
+Causes include:
+
+enzyme deficiencies or mucosal abnormality, as in food allergy and food intolerance, e.g. celiac disease (gluten intolerance), lactose intolerance (intolerance to milk sugar, common in non-Europeans), and fructose malabsorption.
+pernicious anemia, or impaired bowel function due to the inability to absorb vitamin B12,
+loss of pancreatic secretions, which may be due to cystic fibrosis or pancreatitis,
+structural defects, like short bowel syndrome (surgically removed bowel) and radiation fibrosis, such as usually follows cancer treatment and other drugs, including agents used in chemotherapy; and
+certain drugs, like orlistat, which inhibits the absorption of fat.
+Inflammatory bowel disease
+Main article: Inflammatory bowel disease
+The two overlapping types here are of unknown origin:
+
+Ulcerative colitis is marked by chronic bloody diarrhea and inflammation mostly affects the distal colon near the rectum.
+Crohn's disease typically affects fairly well demarcated segments of bowel in the colon and often affects the end of the small bowel.
+Irritable bowel syndrome
+Main article: Irritable bowel syndrome
+Another possible cause of diarrhea is irritable bowel syndrome (IBS), which usually presents with abdominal discomfort relieved by defecation and unusual stool (diarrhea or constipation) for at least 3 days a week over the previous 3 months.[32] Symptoms of diarrhea-predominant IBS can be managed through a combination of dietary changes, soluble fiber supplements and medications such as loperamide or codeine. About 30% of patients with diarrhea-predominant IBS have bile acid malabsorption diagnosed with an abnormal SeHCAT test.[33]
+
+Other diseases
+Diarrhea can be caused by other diseases and conditions, namely:
+
+Chronic ethanol ingestion[34]
+Ischemic bowel disease: This usually affects older people and can be due to blocked arteries.
+Microscopic colitis, a type of inflammatory bowel disease where changes are only seen on histological examination of colonic biopsies.
+Bile salt malabsorption (primary bile acid diarrhea) where excessive bile acids in the colon produce a secretory diarrhea.
+Hormone-secreting tumors: some hormones (e.g., serotonin) can cause diarrhea if excreted in excess (usually from a tumor).
+Chronic mild diarrhea in infants and toddlers may occur with no obvious cause and with no other ill effects; this condition is called toddler's diarrhea.
+Environmental enteropathy
+Radiation enteropathy following treatment for pelvic and abdominal cancers.
+Causes
+Sanitation
+
+Poverty often leads to unhygienic living conditions, as in this community in the Indian Himalayas. Such conditions promote contraction of diarrheal diseases, as a result of poor sanitation and hygiene.
+Open defecation is a leading cause of infectious diarrhea leading to death.[35]
+
+Poverty is a good indicator of the rate of infectious diarrhea in a population. This association does not stem from poverty itself, but rather from the conditions under which impoverished people live. The absence of certain resources compromises the ability of the poor to defend themselves against infectious diarrhea. "Poverty is associated with poor housing, crowding, dirt floors, lack of access to clean water or to sanitary disposal of fecal waste (sanitation), cohabitation with domestic animals that may carry human pathogens, and a lack of refrigerated storage for food, all of which increase the frequency of diarrhea... Poverty also restricts the ability to provide age-appropriate, nutritionally balanced diets or to modify diets when diarrhea develops so as to mitigate and repair nutrient losses. The impact is exacerbated by the lack of adequate, available, and affordable medical care."[36]
+
+Water
+One of the most common causes of infectious diarrhea, is a lack of clean water. Often, improper fecal disposal leads to contamination of groundwater. This can lead to widespread infection among a population, especially in the absence of water filtration or purification. Human feces contains a variety of potentially harmful human pathogens.[37]
+
+Nutrition
+Proper nutrition is important for health and functioning, including the prevention of infectious diarrhea. It is especially important to young children who do not have a fully developed immune system. Zinc deficiency, a condition often found in children in developing countries can, even in mild cases, have a significant impact on the development and proper functioning of the human immune system.[38][39] Indeed, this relationship between zinc deficiency and reduced immune functioning corresponds with an increased severity of infectious diarrhea. Children who have lowered levels of zinc have a greater number of instances of diarrhea, severe diarrhea, and diarrhea associated with fever.[40] Similarly, vitamin A deficiency can cause an increase in the severity of diarrheal episodes. However, there is some discrepancy when it comes to the impact of vitamin A deficiency on the rate of disease. While some argue that a relationship does not exist between the rate of disease and vitamin A status,[41] others suggest an increase in the rate associated with deficiency.[42] Given that estimates suggest 127 million preschool children worldwide are vitamin A deficient, this population has the potential for increased risk of disease contraction.[43]
+
+Medications
+Some medications, such as the penicillum can cause diarrhea.[44][45] Over 700 medications are known to cause diarrhea. The classes of medications that are known to cause diarrhea are laxatives, antacids, heartburn medications, antibiotics, anti-neoplastic drugs, anti-inflammatories as well as many dietary supplements.[16]
+
+Pathophysiology
+Evolution
+According to two researchers, Nesse and Williams, diarrhea may function as an evolved expulsion defense mechanism. As a result, if it is stopped, there might be a delay in recovery.[46] They cite in support of this argument research published in 1973 that found that treating Shigella with the anti-diarrhea drug (Co-phenotrope, Lomotil) caused people to stay feverish twice as long as those not so treated. The researchers indeed themselves observed that: "Lomotil may be contraindicated in shigellosis. Diarrhea may represent a defense mechanism".[47]
+
+Diagnostic approach
+The following types of diarrhea may indicate further investigation is needed:
+
+In infants
+Moderate or severe diarrhea in young children
+Associated with blood
+Continues for more than two days
+Associated non-cramping abdominal pain, fever, weight loss, etc.
+In travelers
+In food handlers, because of the potential to infect others;
+In institutions such as hospitals, child care centers, or geriatric and convalescent homes.
+A severity score is used to aid diagnosis in children.[48]
+
+Prevention
+Sanitation
+Numerous studies have shown that improvements in drinking water and sanitation (WASH) lead to decreased risks of diarrhoea.[49] Such improvements might include for example use of water filters, provision of high-quality piped water and sewer connections.[49]
+
+In institutions, communities, and households, interventions that promote hand washing with soap lead to significant reductions in the incidence of diarrhea.[50] The same applies to preventing open defecation at a community-wide level and providing access to improved sanitation.[51][52] This includes use of toilets and implementation of the entire sanitation chain connected to the toilets (collection, transport, disposal or reuse of human excreta).
+
+Hand washing
+Basic sanitation techniques can have a profound effect on the transmission of diarrheal disease. The implementation of hand washing using soap and water, for example, has been experimentally shown to reduce the incidence of disease by approximately 42–48%.[53][54] Hand washing in developing countries, however, is compromised by poverty as acknowledged by the CDC: "Handwashing is integral to disease prevention in all parts of the world; however, access to soap and water is limited in a number of less developed countries. This lack of access is one of many challenges to proper hygiene in less developed countries." Solutions to this barrier require the implementation of educational programs that encourage sanitary behaviours.[55]
+
+Water
+Given that water contamination is a major means of transmitting diarrheal disease, efforts to provide clean water supply and improved sanitation have the potential to dramatically cut the rate of disease incidence. In fact, it has been proposed that we might expect an 88% reduction in child mortality resulting from diarrheal disease as a result of improved water sanitation and hygiene.[37][56] Similarly, a meta-analysis of numerous studies on improving water supply and sanitation shows a 22–27% reduction in disease incidence, and a 21–30% reduction in mortality rate associated with diarrheal disease.[57]
+
+Chlorine treatment of water, for example, has been shown to reduce both the risk of diarrheal disease, and of contamination of stored water with diarrheal pathogens.[58]
+
+Vaccination
+Immunization against the pathogens that cause diarrheal disease is a viable prevention strategy, however it does require targeting certain pathogens for vaccination. In the case of Rotavirus, which was responsible for around 6% of diarrheal episodes and 20% of diarrheal disease deaths in the children of developing countries, use of a Rotavirus vaccine in trials in 1985 yielded a slight (2-3%) decrease in total diarrheal disease incidence, while reducing overall mortality by 6-10%. Similarly, a Cholera vaccine showed a strong reduction in morbidity and mortality, though the overall impact of vaccination was minimal as Cholera is not one of the major causative pathogens of diarrheal disease.[59] Since this time, more effective vaccines have been developed that have the potential to save many thousands of lives in developing nations, while reducing the overall cost of treatment, and the costs to society.[60][61]
+
+A rotavirus vaccine decrease the rates of diarrhea in a population.[1] New vaccines against rotavirus, Shigella, Enterotoxigenic Escherichia coli (ETEC), and cholera are under development, as well as other causes of infectious diarrhea.[medical citation needed]
+
+Nutrition
+Dietary deficiencies in developing countries can be combated by promoting better eating practices. Zinc supplementation proved successful showing a significant decrease in the incidence of diarrheal disease compared to a control group.[62][63] The majority of the literature suggests that vitamin A supplementation is advantageous in reducing disease incidence.[64] Development of a supplementation strategy should take into consideration the fact that vitamin A supplementation was less effective in reducing diarrhea incidence when compared to vitamin A and zinc supplementation, and that the latter strategy was estimated to be significantly more cost effective.[65]
+
+Breastfeeding
+Breastfeeding practices have been shown to have a dramatic effect on the incidence of diarrheal disease in poor populations. Studies across a number of developing nations have shown that those who receive exclusive breastfeeding during their first 6 months of life are better protected against infection with diarrheal diseases.[66] One study in Brazil found that non-breastfed infants were 14 times more likely to die from diarrhea than exclusively breastfed infants.[67] Exclusive breastfeeding is currently recommended for the first six months of an infant's life by the WHO,[68][69] with continued breastfeeding until at least two years of age.[69]
+
+Others
+Probiotics decrease the risk of diarrhea in those taking antibiotics.[70]
+
+Management
+In many cases of diarrhea, replacing lost fluid and salts is the only treatment needed. This is usually by mouth – oral rehydration therapy – or, in severe cases, intravenously.[1] Diet restrictions such as the BRAT diet are no longer recommended.[71] Research does not support the limiting of milk to children as doing so has no effect on duration of diarrhea.[72] To the contrary, WHO recommends that children with diarrhea continue to eat as sufficient nutrients are usually still absorbed to support continued growth and weight gain, and that continuing to eat also speeds up recovery of normal intestinal functioning.[17] CDC recommends that children and adults with cholera also continue to eat.[73]
+
+Medications such as loperamide (Imodium) and bismuth subsalicylate may be beneficial; however they may be contraindicated in certain situations.[74]
+
+Fluids
+See also: Management of dehydration
+
+A person consuming oral rehydration solution.
+Oral rehydration solution (ORS) (a slightly sweetened and salty water) can be used to prevent dehydration. Standard home solutions such as salted rice water, salted yogurt drinks, vegetable and chicken soups with salt can be given. Home solutions such as water in which cereal has been cooked, unsalted soup, green coconut water, weak tea (unsweetened), and unsweetened fresh fruit juices can have from half a teaspoon to full teaspoon of salt (from one-and-a-half to three grams) added per liter. Clean plain water can also be one of several fluids given.[17] There are commercial solutions such as Pedialyte, and relief agencies such as UNICEF widely distribute packets of salts and sugar. A WHO publication for physicians recommends a homemade ORS consisting of one liter water with one teaspoon salt (3 grams) and two tablespoons sugar (18 grams) added[17] (approximately the "taste of tears"[75]). Rehydration Project recommends adding the same amount of sugar but only one-half a teaspoon of salt, stating that this more dilute approach is less risky with very little loss of effectiveness.[76] Both agree that drinks with too much sugar or salt can make dehydration worse.[17][76]
+
+Appropriate amounts of supplemental zinc and potassium should be added if available. But the availability of these should not delay rehydration. As WHO points out, the most important thing is to begin preventing dehydration as early as possible.[17] In another example of prompt ORS hopefully preventing dehydration, CDC recommends for the treatment of cholera continuing to give Oral Rehydration Solution during travel to medical treatment.[73]
+
+Vomiting often occurs during the first hour or two of treatment with ORS, especially if a child drinks the solution too quickly, but this seldom prevents successful rehydration since most of the fluid is still absorbed. WHO recommends that if a child vomits, to wait five or ten minutes and then start to give the solution again more slowly.[17]
+
+Drinks especially high in simple sugars, such as soft drinks and fruit juices, are not recommended in children under 5 years of age as they may increase dehydration. A too rich solution in the gut draws water from the rest of the body, just as if the person were to drink sea water.[17][77] Plain water may be used if more specific and effective ORT preparations are unavailable or are not palatable.[77] Additionally, a mix of both plain water and drinks perhaps too rich in sugar and salt can alternatively be given to the same person, with the goal of providing a medium amount of sodium overall.[17] A nasogastric tube can be used in young children to administer fluids if warranted.[78]
+
+Eating
+The WHO recommends a child with diarrhea continue to be fed. Continued feeding speeds the recovery of normal intestinal function. In contrast, children whose food is restricted have diarrhea of longer duration and recover intestinal function more slowly. The WHO states "Food should never be withheld and the child's usual foods should not be diluted. Breastfeeding should always be continued."[17] And in the specific example of cholera, CDC also makes the same recommendation.[73] Breastfed infants with diarrhea often choose to breastfeed more, and should be encouraged to do so.[17] In young children who are not breast-fed and live in the developed world, a lactose-free diet may be useful to speed recovery.[79]
+
+Medications
+While antibiotics are beneficial in certain types of acute diarrhea, they are usually not used except in specific situations.[80][81] There are concerns that antibiotics may increase the risk of hemolytic uremic syndrome in people infected with Escherichia coli O157:H7.[82] In resource-poor countries, treatment with antibiotics may be beneficial.[81] However, some bacteria are developing antibiotic resistance, particularly Shigella.[83] Antibiotics can also cause diarrhea, and antibiotic-associated diarrhea is the most common adverse effect of treatment with general antibiotics.
+
+While bismuth compounds (Pepto-Bismol) decreased the number of bowel movements in those with travelers' diarrhea, they do not decrease the length of illness.[84] Anti-motility agents like loperamide are also effective at reducing the number of stools but not the duration of disease.[8] These agents should only be used if bloody diarrhea is not present.[85]
+
+Bile acid sequestrants such as cholestyramine can be effective in chronic diarrhea due to bile acid malabsorption. Therapeutic trials of these drugs are indicated in chronic diarrhea if bile acid malabsorption cannot be diagnosed with a specific test, such as SeHCAT retention.
+
+Alternative therapies
+Zinc supplementation may benefit children over six months old with diarrhea in areas with high rates of malnourishment or zinc deficiency.[86] This supports the World Health Organization guidelines for zinc, but not in the very young.
+
+Probiotics reduce the duration of symptoms by one day and reduced the chances of symptoms lasting longer than four days by 60%.[87] The probiotic lactobacillus can help prevent antibiotic-associated diarrhea in adults but possibly not children.[88] For those with lactose intolerance, taking digestive enzymes containing lactase when consuming dairy products often improves symptoms.
+
+Epidemiology
+
+Deaths due to diarrhoeal diseases per million persons in 2012
+  0-2
+  3-10
+  11-18
+  19-30
+  31-46
+  47-80
+  81-221
+  222-450
+  451-606
+  607-1799
+
+Disability-adjusted life year for diarrhea per 100,000 inhabitants in 2004.[89]
+  no data
+  < 500
+  500–1000
+  1000–1500
+  1500–2000
+  2000–2500
+  2500–3000
+  3000–3500
+  3500–4000
+  4000–4500
+  4500–5000
+  5000–6000
+  > 6000
+Worldwide in 2004, approximately 2.5 billion cases of diarrhea occurred, which resulted in 1.5 million deaths among children under the age of five.[1] Greater than half of these were in Africa and South Asia.[1] This is down from a death rate of 4.5 million in 1980 for gastroenteritis.[90] Diarrhea remains the second leading cause of infant mortality (16%) after pneumonia (17%) in this age group.[1]
+
+The majority of such cases occur in the developing world, with over half of the recorded cases of childhood diarrhea occurring in Africa and Asia, with 696 million and 1.2 billion cases, respectively, compared to only 480 million in the rest of the world.[91]
+
+Infectious diarrhea resulted in about 0.7 million deaths in children under five years old in 2011 and 250 million lost school days.[51][92] In the Americas, diarrheal disease accounts for a total of 10% of deaths among children aged 1–59 months while in South East Asia, it accounts for 31.3% of deaths.[93] It is estimated that around 21% of child mortalities in developing countries are due to diarrheal disease.[94]
+
+Etymology
+The word diarrhea is from the Ancient Greek διάρροια from διά dia "through" and ῥέω rheo "flow".
+
+Diarrhea is the spelling in American English while diarrhoea is the spelling in Commonwealth English.
+
+
+
+Diarrhea can be a temporary thing, or it can signal something more serious. If you have diarrhea, how can you tell whether you should wait it out or see a doctor?
+
+Run-of-the-Mill Symptoms
+Diarrhea makes its presence known with several urgent trips to the bathroom in a short time. You know it’s diarrhea when you pass loose, watery stool two or more times a day.
+
+You may also have:
+
+Cramping
+Abdominal pain
+Bloating
+Nausea
+Fever
+Vomiting
+Even without medicine, diarrhea usually goes away on its own within 48 hours. The most important things you can do in the meantime are:
+
+Stay hydrated while the diarrhea runs its course.
+Avoid foods that will make your symptoms worse.
+ 
+
+Avoid Dehydration
+ 
+
+It can follow close on the heels of diarrhea, especially when symptoms linger, or if you vomit.
+
+As soon as you realize diarrhea is on its way, make fluids a top priority.
+
+When you have diarrhea, drink plenty of water. Also get fluids that will boost your sodium and electrolyte levels. Examples include:
+
+Broth
+Soup
+Fruits and fruit juices
+ 
+
+When Symptoms Get Serious
+Most cases of diarrhea are nothing more than a brief inconvenience. But sometimes, they warn of a serious condition.
+
+Talk with your doctor if your child has diarrhea for more than 24 hours. If you have it for more than 3 days, make an appointment.
+
+Call your doctor right away if you have:
+
+Severe abdominal or rectal pain
+Blood in your stool
+Black, tarry stools
+High fever  (greater than 101.3 F)
+Signs of dehydration
+These can be warning signs of things like:
+
+Infection
+Inflammatory bowel disease
+Pancreatitis
+Colon cancer
+Also, be sure to let your doctor know about your diarrhea if you have cancer, or have had recent treatment for it.
+
+When Diarrhea Won't Go Away
+If you still have diarrhea after 4 weeks, then you have chronic diarrhea.
+
+To figure out the cause, your doctor will want to know your symptoms and medical history. You'll get the most out of your appointment if you can tell him:
+
+How long you've had diarrhea
+Whether your diarrhea comes and goes, or is continuous
+If you think certain foods and situations make things better or worse
+If your stool looks bloody, oily, fatty, or watery
+Other symptoms you have and how long you’ve had them
+If you have a family history of chronic diarrhea
+Places you've traveled to recently
+Unusual foods you've tried in the last little while
+Any medication or supplements you're taking
+If you've lost a lot of weight
+
+Diarrhea is an increase in the frequency of bowel movements, an increase in the looseness of stool or both.
+Diarrhea is caused by increased secretion of fluid into the intestine, reduced absorption of fluid from the intestine or rapid passage of stool through the intestine.
+Symptoms associated with diarrhea include abdominal pain, especially cramping. Other symptoms depend on the cause of the diarrhea.
+Diarrhea can be defined absolutely or relatively. Absolute diarrhea is defined as more than five bowel movements a day or liquid stools. Relative diarrhea is defined as an increase in the number of bowel movements per day or an increase in the looseness of stools compared with an individual's usual bowel habit.
+Diarrhea may be either acute or chronic, and each has different causes and treatments.
+Complications of diarrhea include dehydration, electrolyte (mineral) abnormalities, and irritation of the anus.
+Tests that are useful in the evaluation of acute diarrhea include examination of stool for white blood cells or enzymes that they produce, parasites, cultures of stool for bacteria, testing of stool for the toxins of C. difficile, and blood tests for electrolyte abnormalities.
+Tests that are useful in the evaluation of chronic diarrhea include examination of stool for parasites, upper gastrointestinal X-rays (UGI series), barium enema, esophago-gastro-duodenoscopy (EGD) with biopsies, colonoscopy with biopsies, small intestinal endoscopy with biopsies, hydrogen breath testing, measurement of fat in the stool, and pancreatic function tests.
+Dehydration can be treated at home with home remedies, oral rehydration solutions.
+Absorbents (that absorb water in the intestine), anti-motility medications, bismuth compounds, and IV fluids if necessary.
+Antibiotics should not be used in treating diarrhea unless there is a culture-proven bacterial infection that requires antibiotics, severe diarrhea that is likely to be infectious in origin, or an individual has serious underlying diseases.
+
+Diarrhea is an increase in the frequency of bowel movements or a decrease in the form of stool (greater looseness of stool). Although changes in frequency of bowel movements and looseness of stools can vary independently of each other, changes often occur in both.
+
+Diarrhea needs to be distinguished from four other conditions. Although these conditions may accompany diarrhea, they often have different causes and different treatments than diarrhea. These other conditions are:
+
+Incontinence of stool, which is the inability to control (delay) bowel movements until an appropriate time, for example, until one can get to the toilet
+Rectal urgency, which is a sudden urge to have a bowel movement that is so strong that if a toilet is not immediately available there will be incontinence
+Incomplete evacuation, which is a sensation that another bowel movement is necessary soon after a bowel movement, yet there is difficulty passing further stool the second time
+Bowel movements immediately after eating a meal
+
+Certain foods may trigger diarrhea in some people. Some foods to avoid that may cause diarrhea include:
+
+Fried foods
+Foods with rich sauces
+Fatty cuts of meat
+Citrus fruit
+Artificial sugar
+Too much fiber
+Fructose
+Pepperment
+
+
+Diarrhea can be defined in absolute or relative terms based on either the frequency of bowel movements or the consistency (looseness) of stools.
+
+Frequency of bowel movements: Absolute diarrhea is having more bowel movements than normal. Thus, since among healthy individuals the maximum number of daily bowel movements is approximately three, diarrhea can be defined as any number of stools greater than three, although some consider five or more bowel movements to be diarrhea. "Relative diarrhea" is having more bowel movements than usual. Thus, if an individual who usually has one bowel movement each day begins to have two bowel movements each day, then relative diarrhea is present-even though there are not more than three or five bowel movements a day, that is, there is not absolute diarrhea.
+
+Consistency of stools: Absolute diarrhea is more difficult to define on the consistency of stool because the consistency of stool can vary considerably in healthy individuals depending on their diets. Thus, individuals who eat large amounts of vegetables will have looser stools than individuals who eat few vegetables and/or fruits. Stools that are liquid or watery are always abnormal and considered diarrheal. Relative diarrhea is easier to define based on the consistency of stool. Thus, an individual who develops looser stools than usual has relative diarrhea--even though the stools may be within the range of normal with respect to consistency.
+
+Why does diarrhea develop?
+With diarrhea, stools usually are looser whether or not the frequency of bowel movements is increased. This looseness of stool--which can vary all the way from slightly soft to watery--is caused by increased water in the stool. During normal digestion, food is kept liquid by the secretion of large amounts of water by the stomach, upper small intestine, pancreas, and gallbladder. Food that is not digested reaches the lower small intestine and colon in liquid form. The lower small intestine and particularly the colon absorb the water, turning the undigested food into a more-or-less solid stool with form. Increased amounts of water in stool can occur if the stomach and/or small intestine secrete too much fluid, the distal small intestine and colon do not absorb enough water, or the undigested, liquid food passes too quickly through the small intestine and colon for enough water to be removed.
+
+Another way of looking at the reasons for diarrhea is to divide it into five types.
+
+The first is referred to as secretory diarrhea because too much fluid is secreted into the intestine.
+The second type is referred to as osmotic diarrhea in which small molecules that pass into the colon without being digested and absorbed draw water and electrolytes into the colon and stool.
+The third type is referred to as motility-related diarrhea in which the intestinal muscles are overactive and transport the intestinal contents through the intestine without enough time for water and electrolytes to be absorbed.
+The fourth type is unusual. It is best represented by a condition called collagenous colitis. In collagenous colitis, the mechanism of the diarrhea may be the inability of the colon to absorb fluid and electrolytes because of the extensive scarring of the intestinal lining. Inflammation also may play a role.
+The fifth type of diarrhea is referred to as inflammatory diarrhea and involves more than one mechanism. For example, some viruses, bacteria, and parasites cause increased secretion of fluid, either by invading and inflaming the lining of the small intestine (inflammation stimulates the lining to secrete fluid) or by producing toxins (chemicals) that also stimulate the lining to secrete fluid but without causing inflammation. Inflammation of the small intestine and/or colon from bacteria or from non-bacterial ileitis/colitis can increase the rapidity with which food passes through the intestines, reducing the time that is available for absorbing water.
+Diarrhea generally is divided into two types, acute and chronic.
+
+Acute diarrhea lasts from a few days up to a week.
+Chronic diarrhea can be defined in several ways, but usually lasts more than three weeks.
+It is important to distinguish between acute and chronic diarrhea because they usually have different causes, require different diagnostic tests, and require different treatment.
+
+The symptoms that are associated with diarrhea depend on the cause and type of diarrhea.
+
+If there is a large secretory component to the diarrhea the bowel movements are frequent and watery. Pain is not common, and there are no signs of inflammation.
+Similarly, an osmotic diarrhea is watery, but its main characteristic is that once ingestion of food stops (which would include the offending dietary food or substance that is not digested or absorbed) the diarrhea stops.
+Motility related diarrhea is more likely to be associated with cramping abdominal pain.
+Inflammatory diarrhea often is associated with crampy abdominal pain as well as signs of inflammation, for example, fever, and abdominal tenderness. It also may be associated with intestinal bleeding, either with visible blood in the stool or invisible blood that only is detected by testing the stool for blood.
+Although one might expect the diarrhea of collagenous colitis to be painless (since diarrhea is believed to be due to poor absorption of fluid and electrolytes), in fact, it is frequently associated with abdominal pain, suggesting that there is more to collagenous colitis than a failure to absorb fluid and electrolytes.
+
+The most common cause of acute diarrhea is infection--viral, bacterial, and parasitic. Bacteria also can cause acute food poisoning. A third important cause of acute diarrhea is starting a new medication since many medications can cause diarrhea.
+
+There are many strains of E. coli bacteria. Most of the E. coli bacteria are normal inhabitants of the small intestine and colon and are non-pathogenic, meaning they do not cause disease in the intestines. Nevertheless, these non-pathogenic E. coli can cause diseases if they spread outside of the intestines, for example, into the urinary tract (where they cause bladder or kidney infections) or into the blood stream (sepsis).
+
+Certain strains of E. coli, however, are pathogenic (meaning they can cause disease in the small intestine and colon). These pathogenic strains of E. coli cause diarrhea either by producing toxins (called enterotoxigenic E. coli or ETEC) or by invading and inflaming the lining of the small intestine and the colon and causing enterocolitis (called enteropathogenic E. coli or EPEC). Traveler's diarrhea usually is caused by an ETEC strain of E. coli that produces a diarrhea-inducing toxin.
+
+Tourists visiting foreign countries with warm climates and poor sanitation (Mexico, parts of Africa, etc.) can acquire ETEC by eating contaminated foods such as fruits, vegetables, seafood, raw meat, water, and ice cubes. Toxins produced by ETEC cause the sudden onset of diarrhea, abdominal cramps, nausea, and sometimes vomiting. These symptoms usually occur 3-7 days after arrival in the foreign country and generally subside within 3 days. Occasionally, other bacteria or parasites can cause diarrhea in travelers (for example, Shigella, Giardia, and Campylobacter). Diarrhea caused by these other organisms usually lasts longer than 3 days.
+
+Viral gastroenteritis (viral infection of the stomach and the small intestine) is the most common cause of acute diarrhea worldwide.
+
+Symptoms of viral gastroenteritis typically last only 48-72 hours and include:
+
+nausea,
+vomiting,
+abdominal cramps, and
+diarrhea.
+Unlike bacterial enterocolitis (bacterial infection of the small intestine and colon), patients with viral gastroenteritis usually do not have blood or pus in their stools and have little if any fever.
+
+Viral gastroenteritis can occur in a sporadic form (in a single individual) or in an epidemic form (among groups of individuals).
+
+Sporadic diarrhea probably is caused by several different viruses and is believed to be spread by person-to-person contact.
+The most common cause of epidemic diarrhea (for example, on cruise ships) is infection with a family of viruses known as caliciviruses of which the genus norovirus is the most common (for example, "Norwalk agent").
+The caliciviruses are transmitted by food that is contaminated by sick food-handlers or by person-to-person contact.
+
+Disease-causing bacteria usually invade the small intestines and colon and cause enterocolitis (inflammation of the small intestine and colon). Bacterial enterocolitis is characterized by signs of inflammation (blood or pus in the stool, fever, abdominal tenderness), as well as abdominal pain and diarrhea. Campylobacter jejuni is the most common bacterium that causes acute enterocolitis in the U.S. Other bacteria that cause enterocolitis include Shigella, Salmonella, and EPEC. These bacteria usually are acquired by drinking contaminated water or eating contaminated foods such as vegetables, poultry, and dairy products.
+
+Enterocolitis caused by the bacterium Clostridium difficile is unusual because it often is caused by antibiotic treatment. Clostridium difficile is also the most common nosocomial infection (infection acquired while in the hospital) to cause diarrhea. Unfortunately, infection also is increasing among individuals who have neither taken antibiotics nor have been in the hospital.
+
+E. coli O157:H7 is a strain of E. coli that produces a toxin that causes hemorrhagic enterocolitis (enterocolitis with bleeding). There was a famous outbreak of hemorrhagic enterocolitis in the U.S. traced to contaminated ground beef in hamburgers (hence, it is also called hamburger colitis). A small percentage of patients infected with E. coli O157:H7, particularly children, can develop hemolytic uremic syndrome (HUS), a syndrome that can lead to kidney failure. Some evidence suggests that prolonged use of anti-diarrhea agents or use of antibiotics may increase the chance of developing HUS.
+
+Food poisoning is a brief illness that is caused by toxins produced by bacteria. The toxins cause abdominal pain (cramps) and vomiting, and also cause the small intestine to secrete large amounts of water that leads to diarrhea. The symptoms of food poisoning usually last less than 24 hours. With some bacteria, the toxins are produced in the food before it is eaten, while with other bacteria, the toxins are produced in the intestine after the food is eaten.
+
+Symptoms usually appear within several hours when food poisoning is caused by toxins that are formed in the food before it is eaten. It takes longer for symptoms to develop when the toxins are formed in the intestine (because it takes time for the bacteria to produce the toxins). Therefore, in the latter case, symptoms usually appear after 7-15 hours.
+
+Staphylococcus aureus is an example of a bacterium that produces toxins in food before it is eaten. Typically, food contaminated with Staphylococcus (such as salad, meat, or sandwiches with mayonnaise) is left un-refrigerated at room temperature overnight. The Staphylococcal bacteria multiply in the food and produce toxins. Clostridium perfringens is an example of a bacterium that multiplies in food (usually canned food), and produces toxins in the small intestine after the contaminated food is eaten.
+
+Parasitic infections are not common causes of diarrhea in the U. S. Infection with Giardia lamblia occurs among individuals who hike in the mountains or travel abroad and is transmitted by contaminated drinking water. Infection with Giardia usually is not associated with inflammation; there is no blood or pus in the stool and little fever. Infection with amoeba (amoebic dysentery) usually occurs during travel abroad to undeveloped countries and is associated with signs of inflammation--blood or pus in the stool and fever.
+
+Cryptosporidium is a diarrhea-producing parasite that is spread by contaminated water because it can survive chlorination. Cyclospora is a diarrhea-producing parasite that has been associated with contaminated raspberries from Guatemala.
+
+Drug-induced diarrhea is very common because many drugs cause diarrhea. The clue to drug-induced diarrhea is that the diarrhea begins soon after treatment with the drug is begun. The medications that most frequently cause diarrhea are antacids and nutritional supplements that contain magnesium. Other classes of medication that cause diarrhea include:
+
+Nonsteroidal anti-inflammatory drugs (NSAIDs)
+Chemotherapy medications
+Antibiotics
+Medications to control irregular heartbeats (antiarrhythmics)
+Medications for high blood pressure
+A few examples of specific medications that commonly cause diarrhea are:
+
+misoprostol (Cytotec)
+quinidine (Quinaglute, Quinidex)
+olsalazine (Dipentum)
+colchicine (Colchicine)
+metoclopramide (Reglan)
+cisapride (Propulsid, Motilium)
+
+Irritable bowel syndrome: The irritable bowel syndrome (IBS) is a functional cause of diarrhea or constipation. Inflammation does not typically exist in the affected bowel. (Nevertheless, recent information suggests that there MAY be a component of inflammation in IBS.) It may be caused by several different underlying problems, but it is believed that the most common cause is rapid passage of the intestinal contents through the colon.
+
+Infectious diseases: A few infectious diseases can cause chronic diarrhea, for example, Giardia lamblia. Patients with AIDS often have chronic infections of their intestines that cause diarrhea.
+
+Bacterial overgrowth of the small intestine: Because of small intestinal problems, normal colonic bacteria may spread from the colon and into the small intestine. When they do, they are in a position to digest food that the small intestine has not had time to digest and absorb. The mechanism that leads to the development of diarrhea in bacterial overgrowth is not clear.
+
+Post-infectious: Following acute viral, bacterial, or parasitic infections, some individuals develop chronic diarrhea. The cause of this type of diarrhea is not clear, but some of the individuals may have bacterial overgrowth of the small intestine. They also have been found to have abnormalities, either microscopic or biochemical, in biopsies of the intestines that suggest that there may be inflammation. This condition also is referred to as post-infectious IBS.
+
+Inflammatory bowel disease (IBD): Crohn's disease and ulcerative colitis, diseases causing inflammation of the small intestine and/or colon, commonly cause chronic diarrhea.
+
+Colon cancer: Colon cancer can cause either diarrhea or constipation. If the cancer blocks the passage of stool, it usually causes constipation. Sometimes, however, there is secretion of water behind the blockage, and liquid stool from behind the blockage leaks around the cancer and results in diarrhea. Cancer, particularly in the distal part of the colon, can lead to thin stools. The diarrhea or constipation caused by cancer usually is progressive, that is, becomes progressively worse. Cancer in the rectum can lead to a sense of incomplete evacuation.
+
+Severe constipation: By blocking the colon, hardened stool can lead to the same problems as colon cancer, as discussed previously.
+
+Carbohydrate (sugar) malabsorption: Carbohydrate or sugar malabsorption is an inability to digest and absorb sugars. The most recognized malabsorption of sugar occurs with lactase deficiency (also known as lactose or milk intolerance) in which milk products containing the milk sugar, lactose, lead to diarrhea. The lactose is not broken up in the intestine because of the absence of an intestinal enzyme, lactase that normally breaks up lactose into its component sugars, galactose, and glucose. Without being broken up, lactose cannot be absorbed into the body. The undigested lactose reaches the colon and pulls water (by osmosis) into the colon. The lactose also is digested by colonic bacteria into gas (hydrogen and methane) as well as chemicals that promote the retention or secretion of fluid in the colon. The result of these events leads to diarrhea. Although lactose is the most common form of sugar malabsorption, other sugars in the diet also may cause diarrhea, including fructose and sorbitol.
+
+Fat malabsorption: Malabsorption of fat is the inability to digest or absorb fat. Fat malabsorption may occur because of reduced pancreatic secretions that are necessary for normal digestion of fat (for example, due to pancreatitis or pancreatic cancer) or by diseases of the lining of the small intestine that prevent the absorption of digested fat (for example, celiac disease). Undigested fat enters the last part of the small intestine and colon where bacteria turn it into substances (chemicals) that cause water to be secreted by the small intestine and colon. Passage through the small intestine and colon also may be more rapid when there is malabsorption of fat.
+
+Endocrine diseases: Several endocrine diseases (imbalances of hormones) may cause diarrhea, for example, an over-active thyroid gland (hyperthyroidism) and an under-active pituitary or adrenal gland (Addison's disease).
+
+Laxative abuse: The abuse of laxatives by individuals who want attention or to lose weight is an occasional cause of chronic diarrhea.
+
+
+When should you call a doctor for diarrhea?
+Most episodes of diarrhea are mild and of short duration and do not need to be brought to the attention of a doctor. The doctor should be consulted when there is:
+
+High fever (temperature greater than 101 F or 38.3 C
+Moderate or severe abdominal pain or tenderness
+Bloody diarrhea that suggests severe intestinal inflammation
+Diarrhea in persons with serious underlying illness for whom dehydration may have more serious consequences, for example, persons with diabetes, heart disease, and AIDS
+Severe diarrhea that shows no improvement after 48 hours.
+Moderate or severe dehydration
+Prolonged vomiting that prevents intake of fluids orally
+Acute diarrhea in pregnant women because of concern for the health of the fetus
+Diarrhea that occurs during or immediately after completing a course of antibiotics because the diarrhea may represent antibiotic-associated infection with C. difficile that requires treatment
+Diarrhea after returning from developing countries or from camping in the mountains because there may be infection with Giardia (for which there is treatment)
+Diarrhea that develops in patients with chronic intestinal diseases such as colitis, or Crohn's disease because the diarrhea may represent worsening of the underlying disease or a complication of the disease, both requiring treatment
+Acute diarrhea in an infant or young child in order to ensure the appropriate use of oral liquids (type, amount, and rate), to prevent or treat dehydration, and to prevent complications of inappropriate use of liquids such as seizures and abnormal blood electrolytes (minerals)
+Chronic diarrhea
+
+
+Acute diarrhea: Acute diarrhea usually requires few tests.
+
+Measurement of blood pressure in the sitting and then then the upright positions can demonstrate orthostatic hypotension (a marked drop in blood pressure) and confirm the presence of dehydration. If moderate or severe dehydration or electrolyte deficiencies are likely, blood electrolytes can be measured.
+Examination of a small amount of stool under the microscope may reveal white blood cells indicating that intestinal inflammation is present and prompting further testing, particularly bacterial cultures of stool and examination of stool for parasites.
+If antibiotics have been taken within the previous two weeks, stool should be tested for the toxin of C. difficile or the bacterial gene that is reasonable for the production of the toxin. It also is possible to culture the C. difficile bacterium.
+Testing stool or blood for viruses is performed only rarely, since there is no specific treatment for the viruses that cause gastroenteritis.
+If there has been recent travel to undeveloped countries or the mountains, stool may be examined under the microscope for Giardia and other parasites.
+There are also immunologic tests that can be done on samples of stool to diagnose infection with Giardia.
+Chronic diarrhea: With chronic diarrhea, the focus usually shifts from dehydration and infection (with the exception of Giardia, which occasionally causes chronic infections) to the diagnosis of non-infectious causes of diarrhea. (See the prior discussion of common causes of chronic diarrhea.)
+
+This may require X-rays of the intestines (upper gastrointestinal series and/or barium enema), or endoscopy (esophagogastroduodenoscopy, EGD, or colonoscopy) with biopsies. Examination of the small intestine via a camera-containing capsule. Specialized small intestinal endoscopy also can be done to visually examine and biopsy the small intestine.
+Fat malabsorption can be diagnosed by measuring the fat in a 72-hour collection of stool. More abbreviated collections are less accurate.
+Sugar malabsorption can be diagnosed by eliminating the offending sugar from the diet or by performing a hydrogen breath test. Hydrogen breath testing also can be used to diagnose bacterial overgrowth of the small intestine.
+An under-active pituitary or adrenal gland and an overactive thyroid gland can be diagnosed by measuring blood levels of cortisol and thyroid hormone, respectively.
+Celiac disease can be diagnosed with blood tests and a biopsy of the small intestine.
+
+What is the treatment of diarrhea in infants and children?
+Most acute diarrhea in infants and young children is due to viral gastroenteritis and is usually short-lived. Antibiotics are not routinely prescribed for viral gastroenteritis. However, fever, vomiting, and loose stools can be symptoms of other childhood infections such as otitis media (infection of the middle ear), pneumonia, bladder infection, sepsis (bacterial infection in the blood) and meningitis. These illnesses may require early antibiotic treatment.
+
+Infants with acute diarrhea also can quickly become severely dehydrated and therefore need early rehydration. For these reasons, sick infants with diarrhea should be evaluated by their pediatricians to identify and treat underlying infections as well as to provide instructions on the proper use of oral rehydration products.
+
+Infants with moderate to severe dehydration usually are treated with intravenous fluids in the hospital. The pediatrician may decide to treat infants who are mildly dehydrated due to viral gastroenteritis at home with oral rehydration solutions.
+
+Infants that are breastfed or formula-fed should continue to receive breast milk during the rehydration phase of their illness if not prevented by vomiting. During, and for a short time after recovering from viral gastroenteritis, babies can be lactose intolerant due to a temporary deficiency of the enzyme, lactase (necessary to digest the lactose in milk) in the small intestine. Infants with lactose intolerance can develop worsening diarrhea and cramps when dairy products are introduced. Therefore, after rehydration with oral rehydration solutions, an undiluted lactose-free formula and diluted juices are recommended. Milk products can be gradually increased as the infant improves.
+
+
+What is the treatment for diarrhea in older children and adults?
+During mild cases of diarrhea, diluted fruit juices, soft drinks containing sugar, sports drinks such as Gatorade, and water can be used to prevent dehydration. Caffeine and lactose containing dairy products should be temporarily avoided since they can aggravate diarrhea, the latter primarily in individuals with transient lactose intolerance. If there is no nausea and vomiting, solid foods should be continued. Foods that usually are well tolerated during a diarrheal illness include rice, cereal, bananas, potatoes, and lactose-free products.
+
+Oral rehydration solutions can be used for moderately severe diarrhea that is accompanied by dehydration in children older than 10 years of age and in adults. These solutions are given at 50 ml/kg over 4-6 hours for mild dehydration or 100 ml/kg over 6 hours for moderate dehydration. After rehydration, the oral rehydration solution can be used to maintain hydration at 100 ml to 200 ml/kg over 24 hours until the diarrhea stops. Directions on the solution label usually state the amounts that are appropriate. After rehydration, older children and adults should resume solid food as soon as any nausea and vomiting subside. Solid food should begin with rice, cereal, bananas, potatoes, and lactose free and low fat products. The variety of foods can be expanded as the diarrhea subsides.
+
+
+What home remedies help the symptoms of diarrhea?
+Many home remedies have been suggested for the treatment of diarrhea; however, few of them have been well-studied. Three that have been studied and appear to be effective are:
+
+pectin,
+cooked green bananas, and
+probiotics.
+Most episodes of diarrhea are acute and of short duration and do not require antibiotics. Antibiotics are not even necessary for the most common bacterial infections that cause diarrhea.
+
+Antibiotics, however, often are used when
+
+patients have more severe and persistent diarrhea,
+patients have additional debilitating diseases such as heart failure, lung disease, and AIDS,
+stool examination and testing discloses parasites, more serious bacterial infections (for example, Shigella), or C. difficile, and
+traveler's diarrhea.
+Absorbents
+Absorbents are compounds that absorb water. Absorbents that are taken orally bind water in the small intestine and colon and make diarrheal stools less watery. They also may bind toxic chemicals produced by bacteria that cause the small intestine to secrete fluid; however, the importance of toxin binding in reducing diarrhea is unclear.
+
+The two main absorbents are attapulgite (a naturally occurring complex mineral) and polycarbophil (a fiber) both available without prescriptions. Psyllium, another absorbent has been used for mild diarrhea, but is primarily used for constipation.
+
+Examples of products containing attapulgite are:
+
+Donnagel,
+Rheaban,
+Kaopectate Advanced Formula,
+Parepectolin, and
+Diasorb.
+Examples of products containing polycarbophil are:
+
+Equalactin,
+Konsyl Daily Fiber Therapy,
+Mitrolan, and
+Polycarb.
+Products containing polycarbophil have been used to treat both diarrhea and constipation. Attapulgite and polycarbophil remain in the intestine and, therefore, have no side effects outside of the gastrointestinal tract. They may occasionally cause constipation and bloating. One concern is that absorbents also can bind medications and interfere with their absorption into the body. For this reason, it often is recommended that medications and absorbents be taken several hours apart so that they are physically separated within the intestines.
+
+Anti-motility medications
+Anti-motility medications are drugs that relax the muscles of the small intestine and/or the colon. Relaxation results in slower flow of intestinal contents. Slower flow allows more time for water to be absorbed from the intestine and colon and reduces the water content of stool. Cramps, due to spasm of the intestinal muscles, also are relieved by the muscular relaxation.
+
+The two main anti-motility medications are loperamide (Imodium), which is available without a prescription, and diphenoxylate (Lomotil), which requires a prescription. Both medications are related to opiates (for example, codeine) but neither has the pain-relieving effects of opiates.
+
+Loperamide (Imodium), though related to opiates, does not cause addiction.
+
+Diphenoxylate is a man-made medication that at high doses can be addictive because of its opiate-like, euphoric (mood-elevating) effects. In order to prevent abuse of diphenoxylate and addiction, a second medication, atropine, is added to loperamide in Lomotil. If too much Lomotil is ingested, unpleasant side effects from too much atropine will occur.
+
+Loperamide and diphenoxylate are safe and well-tolerated. There are some precautions, however, that should be observed.
+
+Anti-motility medications should not be used without a doctor's guidance to treat diarrhea caused by moderate or severe ulcerative colitis, C. difficile colitis, and intestinal infections by bacteria that invade the intestine (for example, Shigella). Their use may lead to more serious inflammation and prolong the infections.
+Diphenoxylate can cause drowsiness or dizziness, and caution should be used if driving or if tasks that require alertness and coordination are required.
+Anti-motility medications should not be used in children younger than two years of age.
+Most unimportant, acute diarrhea should improve within 72 hours. If symptoms do not improve or if they worsen, a doctor should be consulted before continuing treatment with anti-motility medications.
+Bismuth compounds
+Many bismuth-containing preparations are available around the world. Bismuth subsalicylate (Pepto-Bismol) is available in the US. It contains two potentially active ingredients, bismuth and salicylate (aspirin). It is not clear how effective bismuth compounds are, except in traveler's diarrhea and the treatment of H. pylori infection of the stomach where they have been shown to be effective. It also is not clear how bismuth subsalicylate might work. It is thought to have some antibiotic-like properties that affect bacteria that cause diarrhea. The salicylate is anti-inflammatory and could reduce secretion of water by reducing inflammation. Bismuth also might directly reduce the secretion of water by the intestine.
+
+Pepto-Bismol is well-tolerated. Minor side effects include darkening of the stool and tongue. Several precautions that should be observed when using Pepto-Bismol.
+
+Since it contains salicylate, a chemical related to aspirin (acetyl salicylate), patients who are allergic to aspirin should not take Pepto-Bismol.
+Pepto-Bismol should not be used with other aspirin-containing medications since too much aspirin may be ingested and lead to aspirin toxicity, the most common manifestation of which is ringing in the ears.
+The salicylate in Pepto-Bismol, similar to aspirin, can accentuate the effects of anticoagulants, particularly warfarin (Coumadin), and lead to excessive bleeding. It also may cause abnormal bleeding in people who have a tendency to bleed because of genetic disorders or underlying diseases, for example, cirrhosis that also may cause abnormal bleeding.
+The salicylate in Pepto-Bismol can aggravate stomach and duodenal ulcer disease like asiprin.
+Pepto-Bismol and salicylate-containing products should not be given to children and teenagers with chickenpox, influenza, and other viral infections because they may cause Reye's syndrome. Reye's syndrome is a serious illness affecting primarily the liver and brain that can lead to liver failure and coma, with a mortality rate of at least 20%.
+Pepto-Bismol should not be given to infants and children younger than two years of age.
+
+Which types of doctors treat diarrhea?
+Gastroenterologists are the specialists who usually manage patients with diarrhea and pursue the diagnosis of its cause, particularly when the diarrhea is chronic.
+
+
+What are the complications of diarrhea?
+Dehydration occurs when there is excessive loss of fluids and minerals (electrolytes) from the body due to diarrhea, with or without vomiting.
+
+Dehydration is common among adult patients with acute diarrhea who have large amounts of watery stool, particularly when the intake of fluids is limited by lethargy or is associated with nausea and vomiting.
+It also is common in infants and young children who develop viral gastroenteritis or bacterial infection.
+Patients with mild dehydration may experience only thirst and dry mouth.
+Moderate to severe dehydration may cause orthostatic hypotension with (fainting or light-headedness upon standing) due to a reduced volume of blood, which causes a drop in blood pressure upon standing). A diminished urine output, severe weakness, shock, kidney failure, confusion, acidosis (too much acid in the blood), and coma.
+Electrolytes (minerals) are lost with water when diarrhea is prolonged or severe, and mineral or electrolyte deficiencies may occur. The most common deficiencies occur with sodium and potassium. Abnormalities of chloride and bicarbonate also may develop.
+
+Finally, there may be irritation of the anus due to the frequent passage of watery stool containing irritating substances.
+
+
+How can dehydration from diarrhea be prevented and treated?
+Oral rehydration solutions (ORS) are liquids that contain a carbohydrate (glucose or rice syrup) and electrolyte (sodium, potassium, chloride, and citrate or bicarbonate). Originally, the World Health Organization (WHO) developed the WHO-ORS to rapidly rehydrate victims of the severe diarrheal illness, cholera. The WHO-ORS solution contains glucose and electrolytes. The glucose in the solution is important because it forces the small intestine to quickly absorb the fluid and the electrolytes. The purpose of the electrolytes in the solution is the prevention and treatment of electrolyte deficiencies.
+
+In the U.S., convenient, premixed commercial ORS products that are similar to the WHO-ORS are available for rehydration and prevention of dehydration. Examples of these products are Pedialyte, Rehydralyte, Infalyte, and Resol.
+
+Most of the commercially available ORS products in the U.S. contain glucose. Infalyte is the only one that contains rice carbohydrate instead of glucose. Most doctors believe that there are no important differences in effectiveness between glucose and rice carbohydrate.
+
+
