@@ -1,4 +1,4 @@
-# CureAssist
+# sick-spence
 
 I have scraped (manually, couldn't get Scrapy to work) text for 15 conditions ['fever', 'asthma', 'chronic_pain', 'cold', 'cramps', 'depression', 'diarrhea', 'dizziness', 'fatigue', 'headache', 'hypertension', 'nausea', 'rash', 'swelling', 'sleepiness']
 
